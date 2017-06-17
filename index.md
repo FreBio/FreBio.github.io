@@ -1,6 +1,5 @@
 
-![ID](https://frebio.github.io/images/IDsmall.jpg)
-Format: ![Alt Text](url)
+![ID](https://github.com/FreBio/FreBio.github.io/blob/master/images/IDsmall.JPG)
 
 ---
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I am mainly interested in eukaryotic parasites causing **Neglected Tropical Diseases** that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America. Currently, my research is mainly focused on the following diseases:
