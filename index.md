@@ -15,8 +15,9 @@ Thanks to novel sequencing technologies we can now study the DNA of these pathog
 ### Kinetoplast genomics to study evolution and hybridization of eukaryote pathogens
 ### Speciation genomics of Leishmania Viannia
 
----
+
 ## Publications
+---
 
 2017
 1. Cuypers B, Van den Broeck F, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. Genome Biology and Evolution. JIF 4.2
@@ -41,10 +42,8 @@ Thanks to novel sequencing technologies we can now study the DNA of these pathog
   4) Meurs L, Mbow M, Boon N, Van den Broeck F, Vereecken K, Dièye TN, Abatih E, Huyse T, Mboup S, Polman K. 2013. Micro-geographical heterogeneity in Schistosoma mansoni and S. haematobium infection and morbidity in a co-endemic community in Northern Senegal. Plos NTD 7(12): e2608. JIF 4.5
 
 2012
-  3) Raeymaekers JAM, Lens L, Van den Broeck F, Van Dongen S & Volckaert FAM. 2012. Quantifying population structure on short timescales. Molecular Ecology 21(14): 3458-73. JIF 6.5
+3) Raeymaekers JAM, Lens L, Van den Broeck F, Van Dongen S & Volckaert FAM. 2012. Quantifying population structure on short timescales. Molecular Ecology 21(14): 3458-73. JIF 6.5
 
 2011
-
-  2) Adaui V, Maes I, Huyse T, Van den Broeck F, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. 2011. Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru. Infection, Genetics and Evolution 11(8): 1873-1880. JIF 3.2
-  
-  1) Van den Broeck F, Geldof S, Polman K, Volckaert FAM & Huyse T. 2011. Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni. Infection, Genetics and Evolution 11(6): 1413-1418. JIF 3.2
+2) Adaui V, Maes I, Huyse T, Van den Broeck F, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. 2011. Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru. Infection, Genetics and Evolution 11(8): 1873-1880. JIF 3.2
+1) Van den Broeck F, Geldof S, Polman K, Volckaert FAM & Huyse T. 2011. Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni. Infection, Genetics and Evolution 11(6): 1413-1418. JIF 3.2
