@@ -1,5 +1,9 @@
 
-Hi there, 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+---
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I am mainly interested in eukaryotic parasites causing **Neglected Tropical Diseases** that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America. Currently, my research is mainly focused on the following diseases:
 * (Muco-)cutaneous leishmaniasis caused by *L. braziliensis* and *L. peruviana*. While the disease is not deadly, it leads to a disfiguration of the face and consequently social stigma.
 * Animal African Trypanosomiasis caused by *T. congolense*. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
