@@ -7,9 +7,8 @@ I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](h
 
 Thanks to novel sequencing technologies we can now study the DNA of these pathogens in great detail. This helps us to understand the genetic basis and evolution of epidemiologically relevant traits such as drug resistance and virulence, ultimately giving new hope to improved disease control.
 
-## Follow me on twitter: [@FBroeck](https://twitter.com/FBroeck)
-
-## Contact Me: fvandenbroeck AT itg.be
+Follow me on twitter: [@FBroeck](https://twitter.com/FBroeck)
+Contact Me: fvandenbroeck AT itg.be
 
 ## My main projects
 ### Kinetoplast genomics to study evolution and hybridization of eukaryote pathogens
