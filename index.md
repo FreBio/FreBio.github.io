@@ -3,7 +3,7 @@ Hi there,
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I am mainly interested in eukaryotic parasites causing **Neglected Tropical Diseases** that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America. Currently, my research is mainly focused on the following diseases:
 * (Muco-)cutaneous leishmaniasis caused by *L. braziliensis* and *L. peruviana*. While the disease is not deadly, it leads to a disfiguration of the face and consequently social stigma.
 * Animal African Trypanosomiasis caused by *T. congolense*. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
-* Schistoosmiasis caused by the parasitic blood fluke *S. mansoni*.
+* Schistosomiasis caused by the parasitic blood fluke *S. mansoni*.
 
 Thanks to novel sequencing technologies we can now study the DNA of these pathogens in great detail. This helps us to understand the genetic basis and evolution of epidemiologically relevant traits such as drug resistance and virulence, ultimately giving new hope to improved disease control.
 
@@ -16,7 +16,7 @@ Contact Me: fvandenbroeck AT itg.be
 ### Speciation genomics of Leishmania Viannia
 
 
-## My four main publications
+## My main publications
 ---
 * [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). Elife. 2016. 5: e12613
 * [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLoS Neglected Tropical Diseases 9(8): e0003998.
