@@ -15,6 +15,10 @@ owner:
   twitter: @FBroeck
   github: FreBio
 
+author:
+  name:       Frederik Van den Broeck
+  url:        ""
+
 #Others
 markdown: kramdown
 theme: jekyll-theme-cayman
