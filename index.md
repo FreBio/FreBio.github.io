@@ -1,3 +1,7 @@
+[Publications](Publications.md){: .btn}
+
+
+---
 <img align="right" width="150" height="200" src="images/idpic.png"> <br />
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 
@@ -10,8 +14,6 @@
 &nbsp;&nbsp; Twitter: @FBroeck
 
 ---
-
-<a href="Pubblications.md" class="button">Publications</a>
 
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. 
 
