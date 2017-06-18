@@ -1,12 +1,12 @@
-<img align="left" width="160" height="200" src="images/idpic.png"> <br />
-**Dr Frederik Van den Broeck** <br />
+<img align="left" width="150" height="180" src="images/idpic.png"> <br />
+&nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 
 &nbsp;&nbsp; Department of Biomedical Sciences <br />
 &nbsp;&nbsp; Institute of Tropical Medicine <br />
-   Nationalestraat 155 <br />
-Antwerp, Belgium <br />
-Tel.  : +32(0)32470794 <br />
-Mail  : fvandenbroeckATitg.be <br />
+&nbsp;&nbsp; Nationalestraat 155 <br />
+&nbsp;&nbsp; Antwerp, Belgium <br />
+&nbsp;&nbsp; Tel.  : +32(0)32470794 <br />
+&nbsp;&nbsp; Mail  : fvandenbroeckATitg.be <br />
 
 
 
