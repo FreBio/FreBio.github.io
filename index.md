@@ -11,7 +11,7 @@
 
 ---
 
-<a href="Pubblications.md" class="btn">Publications</a>
+<a href="Pubblications.md" class="button">Publications</a>
 
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. 
 
