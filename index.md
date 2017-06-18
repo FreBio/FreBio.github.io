@@ -14,13 +14,13 @@ I am a post-doctoral researcher specialized in **parasite genetics** at the [Dep
 
 I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
 
-While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook the **neglected tropical diseases** that plague the world’s developing countries. My research focuses on the three such diseases that have devastating worldwide consequences for both human and animal health:
+While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook those **tropical diseases** that plague the world’s developing countries. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health:
 * **(Muco-)cutaneous leishmaniasis**. While the disease is not deadly, it leads to a disfiguration of the face and consequently social stigma.
 * **Animal African Trypanosomiasis**. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
 * **Schistosomiasis**. This disease seriously reduce childhood survival rates.
 
 ## My main projects
-Kinetoplast genomics to study evolution and hybridization of eukaryote pathogens
+Kinetoplast genomics of Leishmania spp. and Trypanosoma congolense to study evolution and hybridization of eukaryote pathogens <br />
 Speciation genomics of Leishmania Viannia
 
 ## My main publications
