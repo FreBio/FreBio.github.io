@@ -1,6 +1,16 @@
 <img align="right" width="200" height="200" src="images/IDsmall.JPG">
+Dr Frederik Van den Broeck
+Department of Biomedical Sciences
+Institute of Tropical Medicine
+Nationalestraat 155
+Antwerp, Belgium
+Tel.  : +32(0)32470794
+Mail  : fvandenbroeckATitg.be
 
-I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I am mainly interested in eukaryotic parasites causing **Neglected Tropical Diseases** that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America. Currently, my research is mainly focused on the following diseases:
+
+I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. 
+
+I am mainly interested in eukaryotic parasites causing **Neglected Tropical Diseases** that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America. Currently, my research is mainly focused on the following diseases:
 * (Muco-)cutaneous leishmaniasis caused by *L. braziliensis* and *L. peruviana*. While the disease is not deadly, it leads to a disfiguration of the face and consequently social stigma.
 * Animal African Trypanosomiasis caused by *T. congolense*. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
 * Schistosomiasis caused by the parasitic blood fluke *S. mansoni*.
