@@ -5,6 +5,8 @@ I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](h
 * Animal African Trypanosomiasis caused by *T. congolense*. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
 * Schistosomiasis caused by the parasitic blood fluke *S. mansoni*.
 
+[test](Publications.md)
+
 Thanks to novel sequencing technologies we can now study the DNA of these pathogens in great detail. This helps us to understand the genetic basis and evolution of epidemiologically relevant traits such as drug resistance and virulence, ultimately giving new hope to improved disease control.
 
 Follow me on twitter: [@FBroeck](https://twitter.com/FBroeck)
