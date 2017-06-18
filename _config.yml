@@ -1,7 +1,7 @@
 # Site wide configuration
 title:        Frederik Van den Broeck
 locale:       en_US
-description:  parasite evolution and hybridization - neglected tropical diseases - evolutionary genomics - population genomics - bio-informatics
+description:  parasite evolution and hybridization - neglected tropical diseases - evolutionary genomics - bioinformatics
 search:       true
 baseurl:      ""
 
