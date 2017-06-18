@@ -1,5 +1,6 @@
-**Dr Frederik Van den Broeck** <br />
 <img align="right" width="200" height="200" src="images/IDsmall.JPG">
+**Dr Frederik Van den Broeck** <br />
+
 Department of Biomedical Sciences <br />
 Institute of Tropical Medicine <br />
 Nationalestraat 155 <br />
