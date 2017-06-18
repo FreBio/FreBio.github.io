@@ -1,4 +1,4 @@
-<img align="left" width="170" height="200" src="images/idpic.png"> <br />
+<img align="left" width="150" height="190" src="images/idpic.png"> <br />
 **Dr Frederik Van den Broeck** <br />
 
 Department of Biomedical Sciences <br />
