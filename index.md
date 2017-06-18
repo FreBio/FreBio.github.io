@@ -1,13 +1,18 @@
 <img align="right" width="200" height="200" src="images/IDsmall.JPG">
-Dr Frederik Van den Broeck
+**Dr Frederik Van den Broeck**
 
 Department of Biomedical Sciences
 
 Institute of Tropical Medicine
+
 Nationalestraat 155
+
 Antwerp, Belgium
+
 Tel.  : +32(0)32470794
+
 Mail  : fvandenbroeckATitg.be
+
 
 
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. 
