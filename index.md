@@ -1,10 +1,8 @@
-[Publications](Publications.md){: .btn}
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onClick="Publications.md">Publications</button>
 
 ---
-<img align="right" width="150" height="200" src="images/idpic.png"> <br />
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
-
+<img align="right" width="150" height="200" src="images/idpic.png"> <br />
 &nbsp;&nbsp; Department of Biomedical Sciences <br />
 &nbsp;&nbsp; Institute of Tropical Medicine <br />
 &nbsp;&nbsp; Nationalestraat 155 <br />
