@@ -1,8 +1,8 @@
 <img align="left" width="160" height="200" src="images/idpic.png"> <br />
 **Dr Frederik Van den Broeck** <br />
 
-   Department of Biomedical Sciences <br />
-   Institute of Tropical Medicine <br />
+&nbsp;&nbsp; Department of Biomedical Sciences <br />
+&nbsp;&nbsp; Institute of Tropical Medicine <br />
    Nationalestraat 155 <br />
 Antwerp, Belgium <br />
 Tel.  : +32(0)32470794 <br />
