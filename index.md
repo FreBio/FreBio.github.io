@@ -5,11 +5,11 @@
 &nbsp;&nbsp; Institute of Tropical Medicine <br />
 &nbsp;&nbsp; Nationalestraat 155 <br />
 &nbsp;&nbsp; Antwerp, Belgium <br />
-&nbsp;&nbsp; Tel.  : +32(0)32470794 <br />
-&nbsp;&nbsp; Mail  : fvandenbroeckATitg.be <br />
+&nbsp;&nbsp; Tel.   : +32(0)32470794 <br />
+&nbsp;&nbsp; Mail   : fvandenbroeckATitg.be <br />
+&nbsp;&nbsp; Twitter: @FBroeck
 
-
-
+---
 
 I am a post-doctoral **researcher** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. 
 
@@ -18,13 +18,9 @@ I am mainly interested in eukaryotic parasites causing **Neglected Tropical Dise
 * Animal African Trypanosomiasis caused by *T. congolense*. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
 * Schistosomiasis caused by the parasitic blood fluke *S. mansoni*.
 
-[test](Publications.md)
-
 Thanks to novel sequencing technologies we can now study the DNA of these pathogens in great detail. This helps us to understand the genetic basis and evolution of epidemiologically relevant traits such as drug resistance and virulence, ultimately giving new hope to improved disease control.
 
 Follow me on twitter: [@FBroeck](https://twitter.com/FBroeck)
-
-Contact Me: fvandenbroeck AT itg.be
 
 ## My main projects
 ### Kinetoplast genomics to study evolution and hybridization of eukaryote pathogens
