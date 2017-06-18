@@ -12,13 +12,9 @@ owner:
   avatar: images/IDsmall.JPG
   email: fvandenbroeck@email.com
   disqus-shortname: Fre
-  twitter: @FBroeck
+  twitter: FBroeck
   github: FreBio
-
-author:
-  name:       Frederik Van den Broeck
-  url:        ""
-
+  
 #Others
 markdown: kramdown
 theme: jekyll-theme-cayman
