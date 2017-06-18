@@ -7,7 +7,7 @@ search:       true
 baseurl:      ""
 
 # Site owner
-owner:
+owner: Frederik Van den Broeck
   name: Frederik Van den Broeck
   avatar: images/IDsmall.JPG
   email: fvandenbroeck@email.com
