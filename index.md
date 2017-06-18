@@ -4,7 +4,6 @@
 Department of Biomedical Sciences
 
 Institute of Tropical Medicine
-
 Nationalestraat 155
 Antwerp, Belgium
 Tel.  : +32(0)32470794
