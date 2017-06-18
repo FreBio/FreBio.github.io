@@ -2,9 +2,8 @@
 
 title:        Frederik Van den Broeck
 locale:       en_US
-description:  blabla.
-tagline:      A personal website keeping stuff
-logo:         site-logo.png
+description:  genome biologist
+logo:         images/IDsmall.JPG
 search:       true
 url:          http://localhost:4000
 baseurl:      ""
