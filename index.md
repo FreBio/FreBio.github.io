@@ -1,8 +1,7 @@
 <img align="right" width="200" height="200" src="images/IDsmall.JPG">
 **Dr Frederik Van den Broeck**
 
-Department of Biomedical Sciences
-
+Department of Biomedical Sciences\newline
 Institute of Tropical Medicine
 Nationalestraat 155
 Antwerp, Belgium
