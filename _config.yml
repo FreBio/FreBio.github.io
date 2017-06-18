@@ -1,7 +1,7 @@
 # Site wide configuration
 title:        Frederik Van den Broeck
 locale:       en_US
-description:  biologist - tropical diseases - parasite evolution & hybridization - evolutionary genomics
+description:  I am a post-doctoral researcher at the Department of Biomedical Sciences in the Antwerp Institute of Tropical Medicine. I am mainly interested in eukaryotic parasites causing Neglected Tropical Diseases that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America.  biologist - tropical diseases - parasite evolution & hybridization - evolutionary genomics
 logo:         images/IDsmall.JPG
 search:       true
 baseurl:      ""
