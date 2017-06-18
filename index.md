@@ -12,12 +12,10 @@
 
 I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. 
 
-I am studying **Neglected Tropical Diseases** that seriously reduce childhood survival rates within the poorest regions of Africa, Asia and South-America. Currently, my research is mainly focused on the following diseases:
+I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes? Answering these questions with **genetic and genomic data** could provide new hope in controlling or even eliminating diseases. While diseases such as HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook the tropical diseases that plague the world’s developing countries. My research focuses on the three such diseases that have devastating worldwide consequences for both human and animal health:
 * (Muco-)cutaneous leishmaniasis caused by *L. braziliensis* and *L. peruviana*. While the disease is not deadly, it leads to a disfiguration of the face and consequently social stigma.
 * Animal African Trypanosomiasis caused by *T. congolense*. This disease is fatal in most untreated cases, resulting in annual losses of 3 million animals that increases impoverishment of sub-Saharan Africa.
-* Schistosomiasis caused by the parasitic blood fluke *S. mansoni*.
-
-Thanks to novel sequencing technologies we can now study the DNA of these pathogens in great detail. This helps us to understand the genetic basis and evolution of epidemiologically relevant traits such as drug resistance and virulence, ultimately giving new hope to improved disease control.
+* Schistosomiasis caused by the parasitic blood fluke *S. mansoni*. This disease seriously reduce childhood survival rates.
 
 ## My main projects
 Kinetoplast genomics to study evolution and hybridization of eukaryote pathogens
