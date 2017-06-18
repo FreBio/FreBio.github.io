@@ -2,6 +2,7 @@
 **Dr Frederik Van den Broeck**
 
 Department of Biomedical Sciences
+
 Institute of Tropical Medicine
 
 Nationalestraat 155
