@@ -1,1 +1,18 @@
+# Setup
+title:        Frederik Van den Broeck
+tagline:      personal website
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Frederik Van den Broeck
+  url:        ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
 theme: jekyll-theme-cayman
