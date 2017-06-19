@@ -1,6 +1,6 @@
 
 <div class="btn-group">
-  <button class="btn btn-primary" type="button">Publications.md</button>
+  <button class="button buttonn-primary" type="button">Publications.md</button>
   <button class="btn" type="button">Button</button>
   <button class="btn" type="button">Button</button>
 </div>
