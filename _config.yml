@@ -5,6 +5,7 @@ locale:       en_US
 search:       true
 baseurl:      ""
 show_downloads: true
+google_analytics:
 
 # Site owner
 owner:
