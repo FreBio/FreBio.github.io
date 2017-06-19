@@ -4,7 +4,7 @@ author: Harry Potter
 date: July 31, 2016
 output:
   rmarkdown: kramdown
-    theme: cayman
+    theme: jekyll-theme-cayman
 ---
   rmarkdown::html_document:
 
