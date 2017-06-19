@@ -1,3 +1,13 @@
+
+<div class="btn-group">
+  <button class="btn btn-primary" type="button">Publications.md</button>
+  <button class="btn" type="button">Button</button>
+  <button class="btn" type="button">Button</button>
+</div>
+<button class="btn btn-primary" type="button">Primary button</button>
+<a class="btn btn-primary" href="Publications.md" role="button">Publications</a>
+---
+
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 <img align="right" width="150" height="200" src="images/idpic.png"> <br />
 &nbsp;&nbsp; Department of Biomedical Sciences <br />
