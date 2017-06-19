@@ -5,7 +5,7 @@
   <button class="btn" type="button">Button</button>
 </div>
 <button class="btn btn-primary" type="button">Primary button</button>
-<a class="btn btn-primary" href="Publications.md" role="button">Publications</a>
+<a class="button" href="Publications.md" role="button">Publications</a>
 ---
 
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
