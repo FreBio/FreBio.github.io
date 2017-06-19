@@ -3,7 +3,7 @@ title: Nineteen Years Later
 author: Harry Potter
 date: July 31, 2016
 output:
-  rmarkdown: kramdown
+  rmarkdown::html_document:
     theme: jekyll-theme-cayman
 ---
   rmarkdown::html_document:
