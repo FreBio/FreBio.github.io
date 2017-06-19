@@ -12,4 +12,4 @@ I designed **genetic markers** (chapter 2) to reconstruct the **history of** thi
 [Download Phd](/Phd/PhD_FVDB.pdf)
 
 ---
-<img align="center" width="500" height="450" src="images/SAM_1340.JPG"> <br />
+<img align="center" width="500" height="450" src="/images/SAM_1340.JPG"> <br />
