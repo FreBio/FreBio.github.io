@@ -1,3 +1,13 @@
+---
+title: Nineteen Years Later
+author: Harry Potter
+date: July 31, 2016
+output:
+  rmarkdown: kramdown
+    theme: cayman
+---
+  rmarkdown::html_document:
+
 2.	Cuypers B, Van den Broeck F, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. Genome Biology and Evolution. JIF 4.2
 3.	Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, Van den Broeck F. 2017. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. Acta Tropica. 172, 36-43. JIF 2.7
 4.	Cuypers B, Lecordier L, Meehan C, Van den Broeck F, Imamura H, Büscher P, Dujardin JC et al. 2016. Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection. Mbio. 7 (2) e02198-15. JIF 6.3
