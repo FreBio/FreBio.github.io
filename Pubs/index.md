@@ -3,18 +3,17 @@ layout: default
 ---
 
 ## 2017
-
-2.	Cuypers B, Van den Broeck F, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. Genome Biology and Evolution. JIF 4.2
-3.	Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, Van den Broeck F. 2017. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. Acta Tropica. 172, 36-43. JIF 2.7
-4.	Cuypers B, Lecordier L, Meehan C, Van den Broeck F, Imamura H, Büscher P, Dujardin JC et al. 2016. Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection. Mbio. 7 (2) e02198-15. JIF 6.3
-5.	Hideo I*, Downing T*, Van den Broeck F*, Sanders M, Suman R, Shyam S, Mannaert A et al. 2016. Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent. Elife. 5: e12613. JIF 9.3
-6.	Van den Broeck F, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K, Huyse T. 2015. Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal. Plos NTD 9(8): e0003998. JIF 4.5
-7.	Van den Broeck F, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K, Huyse T. 2014. Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations? Heredity 113: 32-41. JIF 4.1
-8.	Vanaerschot M, Huijben S, Van den Broeck F, Dujardin JC. 2014. Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race. FEMS Microbiology Reviews 38(1): 41-55. JIF 13.2
+1.	Cuypers B, Van den Broeck F, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. Genome Biology and Evolution. JIF 4.2
+2.	Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, Van den Broeck F. 2017. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. Acta Tropica. 172, 36-43. JIF 2.7
+3.	Cuypers B, Lecordier L, Meehan C, Van den Broeck F, Imamura H, Büscher P, Dujardin JC et al. 2016. Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection. Mbio. 7 (2) e02198-15. JIF 6.3
+4.	Hideo I*, Downing T*, Van den Broeck F*, Sanders M, Suman R, Shyam S, Mannaert A et al. 2016. Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent. Elife. 5: e12613. JIF 9.3
+5.	Van den Broeck F, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K, Huyse T. 2015. Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal. Plos NTD 9(8): e0003998. JIF 4.5
+6.	Van den Broeck F, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K, Huyse T. 2014. Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations? Heredity 113: 32-41. JIF 4.1
+7.	Vanaerschot M, Huijben S, Van den Broeck F, Dujardin JC. 2014. Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race. FEMS Microbiology Reviews 38(1): 41-55. JIF 13.2
 
 ## 2013
-[7]	Huyse T, Van den Broeck F, Jombart T, Webster B, Diaw O, Volckaert F, Balloux F, Rollinson D & Polman K. 2013. Regular treatments of praziquantel do not impact on the genetic make-up of S. mansoni in northern Senegal: evidence for drug tolerance? Infection, Genetics and Evolution 18: 100–105. JIF 3.2
-[6]	Huyse T, Van den Broeck F, Hellemans B, Volckaert F, Polman K. 2013. Hybridization between the two major African schistosome species of humans. International Journal of Parasitology 43: 687–689. JIF 3.9
+8.	Huyse T, Van den Broeck F, Jombart T, Webster B, Diaw O, Volckaert F, Balloux F, Rollinson D & Polman K. 2013. Regular treatments of praziquantel do not impact on the genetic make-up of S. mansoni in northern Senegal: evidence for drug tolerance? Infection, Genetics and Evolution 18: 100–105. JIF 3.2
+9.	Huyse T, Van den Broeck F, Hellemans B, Volckaert F, Polman K. 2013. Hybridization between the two major African schistosome species of humans. International Journal of Parasitology 43: 687–689. JIF 3.9
 [5]	De Waele V, Van den Broeck F, Huyse T, McGrath G, Higgins I, Speybroeck N, Berzano M, Raleigh P, Mulcahy GM & Murphy TM. 2013. Panmictic structure of the Cryptosporidium parvum population in Irish calves: influence of prevalence and host movement. Applied and Environmental Microbiology 79(8): 2534-2541. JIF 3.7
 [4] Meurs L, Mbow M, Boon N, Van den Broeck F, Vereecken K, Dièye TN, Abatih E, Huyse T, Mboup S, Polman K. 2013. Micro-geographical heterogeneity in Schistosoma mansoni and S. haematobium infection and morbidity in a co-endemic community in Northern Senegal. Plos NTD 7(12): e2608. JIF 4.5
 
