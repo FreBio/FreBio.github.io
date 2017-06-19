@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2017
-* Cuypers B, **Van den Broeck **F, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. *Genome Biology and Evolution*. In press.
+* Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. *Genome Biology and Evolution*. In press.
 * Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, **Van den Broeck F**. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. *Acta Tropica*. 172, 36-43.
 
 ## 2016
