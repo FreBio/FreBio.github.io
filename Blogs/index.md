@@ -1,0 +1,3 @@
+Here I will post some blogs with scripts and programs that I wrote regarding analyzing genetic data of pathogens.
+
+More coming soon...
