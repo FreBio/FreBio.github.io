@@ -19,10 +19,6 @@ While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention
 * **Animal African Trypanosomiasis** or ***nagana*** kills about 3 million cattle every year in sub-Saharan Africa, leading to poverty and low food nutrition in this region.
 * **Human Schistosomiasis** affects more than 200 million people worldwide, reducing childhood survival rates. 
 
-## My main projects
-Kinetoplast genomics of Leishmania spp. and Trypanosoma congolense to study evolution and hybridization of eukaryote pathogens <br />
-Speciation genomics of Leishmania Viannia
-
 ## My main publications
 * [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). Elife. 2016. 5: e12613
 * [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLoS Neglected Tropical Diseases 9(8): e0003998.
