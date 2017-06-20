@@ -1,3 +1,3 @@
-Here I will post some blogs with scripts and programs that I wrote regarding analyzing genetic data of pathogens.
+Below you will find scripts and programs that I wrote for analyzing genetic data of pathogens.
 
 More coming soon...
