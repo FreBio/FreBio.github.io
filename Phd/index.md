@@ -7,7 +7,7 @@ layout: default
 **Lab 2:** Unit of Medical Helminthology, Institute of Tropical Medicine <br />
 **Date:** 20 May 2014 <br />
 **ISBN:** 978X90X8649X714X0 <br />
-**Funding: ** [VLIR-UOS](http://www.vliruos.be) <br />
+**Funding:** [VLIR-UOS](http://www.vliruos.be) <br />
 
 [Download Phd](/Phd/PhD_FVDB.pdf)
 
