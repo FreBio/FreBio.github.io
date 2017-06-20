@@ -14,10 +14,7 @@ I am a post-doctoral researcher specialized in **parasite genetics** at the [Dep
 
 I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
 
-While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook those **tropical diseases** that plague the world’s developing countries. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health:
-* **(Muco-)cutaneous leishmaniasis** or ***espundia*** leads to a facial disfigurement and consequently social stigma in South-America.
-* **Animal African Trypanosomiasis** or ***nagana*** kills about 3 million cattle every year in sub-Saharan Africa, leading to poverty and low food nutrition in this region.
-* **Human Schistosomiasis** affects more than 200 million people worldwide, reducing childhood survival rates. 
+While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook those **tropical diseases** that plague the world’s developing countries. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or ***espundia***, **Animal African Trypanosomiasis** or ***nagana*** and **Human Schistosomiasis**.
 
 ## My main publications
 * [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). Elife. 2016. 5: e12613
