@@ -4,8 +4,10 @@ locale:       en_US
 # description:  parasite evolution and hybridization - neglected tropical diseases - evolutionary genomics - bioinformatics
 search:       true
 baseurl:      ""
-show_downloads: true
 google_analytics:
+
+gems:
+  - jekyll-seo-tag
 
 # Site owner
 owner:
