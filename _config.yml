@@ -9,8 +9,7 @@ twitter:      @FBroeck
 baseurl:      ""
 google_analytics:
 
-gems:
-  - jekyll-seo-tag
+
 
 # Site owner
 owner:
