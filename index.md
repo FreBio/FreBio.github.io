@@ -1,4 +1,4 @@
-<img align="middle" width="250" height="120" src="images/ITM-logo_col_rgb_high.jpg"> <br />
+<img align="center" width="250" height="120" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 
 ---
 
