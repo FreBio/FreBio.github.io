@@ -1,5 +1,5 @@
 <p align="center">
-  <img idth="450" height="320" src="images/ITM-logo_col_rgb_high.jpg">
+  <img idth="350" height="220" src="images/ITM-logo_col_rgb_high.jpg">
 </p>
 ---
 
