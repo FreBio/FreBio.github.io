@@ -1,6 +1,6 @@
 <img align="middle" width="250" height="120" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 <p align="center">
-  <img images/ITM-logo_col_rgb_high.jpg>
+  <img src="images/ITM-logo_col_rgb_high.jpg">
 </p>
 ---
 
