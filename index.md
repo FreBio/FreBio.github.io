@@ -1,5 +1,5 @@
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
-<img align="right" width="150" height="200" src="images/ID2.jpg"> <br />
+<img align="left" width="150" height="200" src="images/ID2.jpg"> <br />
 <img align="right" width="350" height="200" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 &nbsp;&nbsp; Department of Biomedical Sciences <br />
 &nbsp;&nbsp; Institute of Tropical Medicine <br />
