@@ -1,4 +1,3 @@
----
 
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 <img align="right" width="150" height="200" src="images/ID2.jpg"> <br />
