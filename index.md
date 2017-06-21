@@ -8,6 +8,7 @@
 &nbsp;&nbsp; Tel.   : +32(0)32470794 <br />
 &nbsp;&nbsp; Mail   : fvandenbroeck AT itg.be <br />
 &nbsp;&nbsp; Twitter: [@FBroeck](https://twitter.com/FBroeck) <br />
+
 ---
 
 <img align="left" width="250" height="120" src="images/ITM-logo_col_rgb_high.jpg"> <br />
