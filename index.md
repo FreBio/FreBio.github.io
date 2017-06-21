@@ -1,6 +1,7 @@
 <p align="center">
   <img idth="350" height="220" src="images/ITM-logo_col_rgb_high.jpg">
 </p>
+
 ---
 
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
