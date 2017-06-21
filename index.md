@@ -12,7 +12,7 @@
 ---
 
 <img align="left" width="250" height="120" src="images/ITM-logo_col_rgb_high.jpg"> <br />
-I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units, namely the Unit of Molecular Parasitology led by **Prof. JC Dujardin** and the Unit of Veterinary Protozoology led by **Prof. J. Van Den Abbeele**. Click [here](https://pure.itg.be/nl/persons/frederik-van-den-broeck(6892b06b-5bf3-46d3-8ed0-ddff7c4bcd90).html) for more information about my **research projects**.
+I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units, namely the Unit of Molecular Parasitology led by **Prof. JC Dujardin** and the Unit of Veterinary Protozoology led by **Prof. J. Van Den Abbeele**.
 
 I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes in natural populations? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
 
