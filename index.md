@@ -1,5 +1,5 @@
 <p align="center">
-  <img idth="350" height="220" src="images/ITM-logo_col_rgb_high.jpg">
+  <img idth="250" height="120" src="images/ITM-logo_col_rgb_high.jpg">
 </p>
 
 ---
@@ -24,6 +24,8 @@ I am particularly interested in understanding how **pathogens** evolve in nature
 
 While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook those **tropical diseases** that plague the world’s developing countries. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **Animal African Trypanosomiasis** or *nagana* and **Human Schistosomiasis**.
 
+## Early formative years in Congo
+<img align="right" width="450" height="300" src="images/IMG_0645.jpg"> <br />
 The roots of my fascination with the tropics can be traced to my **early childhood in Africa**, where I spent six years in the northern equatorial rainforest of the Democratic Republic of Congo (DRC). My interest in tropical diseases was sparked by the 1995 Ebola outbreak in Kikwit (DRC) because of its mysterious appearance and because it occurred in a country where I spent several formative years. From that moment onwards I have always wanted to work on infectious diseases. This aspiration became more concrete during my Biology studies at the University of Leuven, where I became particularly interested in **bridging evolutionary genetics and disease control**.
 
 ## My main publications
