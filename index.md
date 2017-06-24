@@ -26,7 +26,7 @@ While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention
 
 The roots of my fascination with the tropics can be traced to my **early childhood in Africa**, where I spent six years in the northern equatorial rainforest of the Democratic Republic of Congo (DRC). My interest in tropical diseases was sparked by the 1995 Ebola outbreak in Kikwit (DRC) because of its mysterious appearance and because it occurred in a country where I spent several formative years. From that moment onwards I have always wanted to work on infectious diseases. This aspiration became more concrete during my Biology studies at the University of Leuven, where I became particularly interested in **bridging evolutionary genetics and disease control**.
 <p align="center">
-  <img idth="450" height="300" src="images/congofre.jpg">
+  <img idth="450" height="350" src="images/congofre.jpg">
 </p>
 
 ## My main publications
