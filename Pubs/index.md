@@ -8,11 +8,11 @@ layout: default
 * [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLOS NEGLECTED TROPICAL DISEASES. 2015
 * [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) HEREDITY. 2014
 * [Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race](https://doi.org/10.1111/1574-6976.12032). FEMS MICROBIOLOGY REVIEWS. 2012
-
- <br />
- <br />
- <br />
-# All publications
+<br />
+<br />
+<br />
+# All publications 
+<br />
 ## 2017
 * Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J and **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. MOLECULAR ECOLOGY In press.
 * Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. GENOME BIOLOGY AND EVOLUTION In press.
