@@ -26,7 +26,7 @@ layout: default
 *	**Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K, Huyse T. Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal. PLOS NEGLECTED TROPICAL DISEASES 9(8): e0003998.
 
 ## 2014
-*	**Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K, Huyse T. Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations? *Heredity* 113: 32-41.
+*	**Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K, Huyse T. Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations? HEREDITY 113: 32-41.
 * Vanaerschot M, Huijben S, **Van den Broeck F**, Dujardin JC. Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race. FEMS MICROBIOLOGY REVIEWS 38(1): 41-55.
 
 ## 2013
