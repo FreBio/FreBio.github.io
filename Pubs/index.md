@@ -11,7 +11,7 @@ layout: default
 
 
 
-# All publications listed by date
+# All publications
 ## 2017
 * Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J and **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. MOLECULAR ECOLOGY In press.
 * Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. GENOME BIOLOGY AND EVOLUTION In press.
