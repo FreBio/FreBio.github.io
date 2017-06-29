@@ -2,9 +2,18 @@
 layout: default
 ---
 
+# Five main publications
+* Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. In Press.
+* [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). Elife. 2016. 5: e12613
+* [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLoS Neglected Tropical Diseases 9(8): e0003998.
+* [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) Heredity 113: 32-41.
+* [Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race](https://doi.org/10.1111/1574-6976.12032). FEMS Microbiology Reviews 38(1): 41-55.
+
+# All publications listed by date
 ## 2017
-* Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. *Genome Biology and Evolution*. In press.
-* Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, **Van den Broeck F**. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. *Acta Tropica*. 172, 36-43.
+* Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J and **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. *MOLECULAR ECOLOGY*. In press.
+* Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, et al. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. *GENOME BIOLOGY AND EVOLUTION*. In press.
+* Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, **Van den Broeck F**. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. *ACTA TROPICA*. 172, 36-43.
 
 ## 2016
 * Cuypers B, Lecordier L, Meehan C, **Van den Broeck F**, Imamura H, Büscher P, Dujardin JC et al. Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection. *Mbio*. 7 (2) e02198-15.
