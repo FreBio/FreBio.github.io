@@ -15,9 +15,9 @@ layout: default
 
 ## 2017
 * Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. MOLECULAR ECOLOGY In press.
-* Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. 
+* Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. <br />
 Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. GENOME BIOLOGY AND EVOLUTION In press.
-* Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G, **Van den Broeck F**. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. ACTA TROPICA 172, 36-43.
+* Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G & **Van den Broeck F**. Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt. ACTA TROPICA 172, 36-43.
 
 ## 2016
 * Cuypers B, Lecordier L, Meehan C, **Van den Broeck F**, Imamura H, Büscher P, Dujardin JC et al. Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection. MBIO 7 (2) e02198-15.
