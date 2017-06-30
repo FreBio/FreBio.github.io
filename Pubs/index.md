@@ -25,7 +25,7 @@ FEMS MICROBIOLOGY REVIEWS. 2012
 
 ## 2016
 * Cuypers B, Lecordier L, Meehan C, **Van den Broeck F**, Imamura H, Büscher P, Dujardin JC et al. Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection. MBIO 7 (2) e02198-15.
-* Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC, Cotton JA. [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). ELIFE 5: e12613.
+* Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC, Cotton JA. *[Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613)*. ELIFE 5: e12613.
 
 ## 2015
 *	**Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K, Huyse T. Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal. PLOS NEGLECTED TROPICAL DISEASES 9(8): e0003998.
