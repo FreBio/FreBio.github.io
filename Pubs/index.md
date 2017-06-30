@@ -30,14 +30,14 @@ layout: default
 * Vanaerschot M, Huijben S, **Van den Broeck F** & Dujardin JC. *[Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race](https://doi.org/10.1111/1574-6976.12032)*. FEMS MICROBIOLOGY REVIEWS 38(1): 41-55.
 
 ## 2013
-* Huyse T, **Van den Broeck F**, Jombart T, Webster B, Diaw O, Volckaert F, Balloux F, Rollinson D & Polman K. Regular treatments of praziquantel do not impact on the genetic make-up of S. mansoni in northern Senegal: evidence for drug tolerance? INFECTION GENETICS AND EVOLUTION 18: 100–105.
-* Huyse T, **Van den Broeck F**, Hellemans B, Volckaert F, Polman K. Hybridization between the two major African schistosome species of humans. INTERNATIONAL JOURNAL OF PARASITOLOGY 43: 687–689.
-* De Waele V, **Van den Broeck F**, Huyse T, McGrath G, Higgins I, Speybroeck N, Berzano M, Raleigh P, Mulcahy GM & Murphy TM. Panmictic structure of the Cryptosporidium parvum population in Irish calves: influence of prevalence and host movement. APPLIED AND ENVIRONMENTAL MICROBIOLOGY 79(8): 2534-2541.
-* Meurs L, Mbow M, Boon N, **Van den Broeck F**, Vereecken K, Dièye TN, Abatih E, Huyse T, Mboup S, Polman K. Micro-geographical heterogeneity in Schistosoma mansoni and S. haematobium infection and morbidity in a co-endemic community in Northern Senegal. PLOS NEGLECTED TROPICAL DISEASES 7(12): e2608.
+* Huyse T, **Van den Broeck F**, Jombart T, Webster B, Diaw O, Volckaert F, Balloux F, Rollinson D & Polman K. *[Regular treatments of praziquantel do not impact on the genetic make-up of S. mansoni in northern Senegal: evidence for drug tolerance?](https://doi.org/10.1016/j.meegid.2013.05.007)*. INFECTION GENETICS AND EVOLUTION 18: 100–105.
+* Huyse T, **Van den Broeck F**, Hellemans B, Volckaert F, Polman K. *[Hybridization between the two major African schistosome species of humans](https://doi.org/10.1016/j.ijpara.2013.04.001)*. INTERNATIONAL JOURNAL OF PARASITOLOGY 43: 687–689.
+* De Waele V, **Van den Broeck F**, Huyse T, McGrath G, Higgins I, Speybroeck N, Berzano M, Raleigh P, Mulcahy GM & Murphy TM. *[Panmictic structure of the Cryptosporidium parvum population in Irish calves: influence of prevalence and host movement](https://doi.org/10.1128/AEM.03613-12)*. APPLIED AND ENVIRONMENTAL MICROBIOLOGY 79(8): 2534-2541.
+* Meurs L, Mbow M, Boon N, **Van den Broeck F**, Vereecken K, Dièye TN, Abatih E, Huyse T, Mboup S, Polman K. *[Micro-geographical heterogeneity in Schistosoma mansoni and S. haematobium infection and morbidity in a co-endemic community in Northern Senegal](https://doi.org/10.1371/journal.pntd.0002608)*. PLOS NEGLECTED TROPICAL DISEASES 7(12): e2608.
 
 ## 2012
-* Raeymaekers JAM, Lens L, **Van den Broeck F**, Van Dongen S & Volckaert FAM. Quantifying population structure on short timescales. MOLECULAR ECOLOGY 21(14): 3458-73
+* Raeymaekers JAM, Lens L, **Van den Broeck F**, Van Dongen S & Volckaert FAM. *[Quantifying population structure on short timescales](https://doi.org/10.1111/j.1365-294X.2012.05628.x)*. MOLECULAR ECOLOGY 21(14): 3458-73
 
 ## 2011
-* Adaui V, Maes I, Huyse T, **Van den Broeck F**, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru. INFECTION GENETICS AND EVOLUTION 11(8): 1873-1880.
-* **Van den Broeck F**, Geldof S, Polman K, Volckaert FAM & Huyse T. Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni. INFECTION GENETICS AND EVOLUTION 11(6): 1413-1418.
+* Adaui V, Maes I, Huyse T, **Van den Broeck F**, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. *[Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru](10.1016/j.meegid.2011.08.008)*. INFECTION GENETICS AND EVOLUTION 11(8): 1873-1880.
+* **Van den Broeck F**, Geldof S, Polman K, Volckaert FAM & Huyse T. *[Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni](10.1016/j.meegid.2011.05.006)*. INFECTION GENETICS AND EVOLUTION 11(6): 1413-1418.
