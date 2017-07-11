@@ -2,17 +2,6 @@
 layout: default
 ---
 
-# Five main publications
-* Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. MOLECULAR ECOLOGY In press.
-* Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC & Cotton JA. *[Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613)*. ELIFE 5: e12613.
-* **Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K & Huyse T. *[Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998)*. PLOS NEGLECTED TROPICAL DISEASES 9(8): e0003998.
-* **Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K & Huyse T. *[Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13)* HEREDITY 113: 32-41.
-* Vanaerschot M, Huijben S, **Van den Broeck F** & Dujardin JC. *[Drug resistance in vector-borne parasites: multiple actors and scenarios for an evolutionary arms race](https://doi.org/10.1111/1574-6976.12032)*. FEMS MICROBIOLOGY REVIEWS 38(1): 41-55.
-<br />
-<br />
-
-# All publications 
-
 ## 2017
 * Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. MOLECULAR ECOLOGY In press.
 * Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. GENOME BIOLOGY AND EVOLUTION In press.
