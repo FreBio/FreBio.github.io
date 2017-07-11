@@ -6,7 +6,7 @@
 &nbsp;&nbsp; Antwerp, Belgium <br />
 &nbsp;&nbsp; Tel.: +32(0)32470794 <br />
 &nbsp;&nbsp; Email: fvandenbroeck@itg.be <br />
-&nbsp;&nbsp; [Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) 
+&nbsp;&nbsp; [Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) <br />
 &nbsp;&nbsp; <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ---
