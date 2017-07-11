@@ -8,7 +8,7 @@ Email: fvandenbroeck@itg.be <br />
 [Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) <br />
 
 <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
-&nbsp;&nbsp; 
+@
 ---
 
 I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
