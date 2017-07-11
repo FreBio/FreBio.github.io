@@ -11,12 +11,6 @@
 
 ---
 
-Github: @wasade
-Email: daniel.mcdonald@colorado.edu
-Twitter: @mcdonadt
-Google Scholar profile
-
-
 I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
 <img align="right" height="80" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 * [__Unit of Molecular Parasitology__](https://pure.itg.be/en/organisations/moleculaire-parasitologie(f9b203f9-2c4d-48ac-90b8-85e4a8928272).html) led by **Prof. JC Dujardin**
