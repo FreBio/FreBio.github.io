@@ -1,4 +1,4 @@
-<a href="https://twitter.com/FBroeck" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 <img align="right" width="120" src="images/ID2.jpg"> <br />
