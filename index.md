@@ -1,5 +1,3 @@
-<a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 <img align="right" width="120" src="images/ID2.jpg"> <br />
 &nbsp;&nbsp; Department of Biomedical Sciences <br />
@@ -8,7 +6,7 @@
 &nbsp;&nbsp; Antwerp, Belgium <br />
 &nbsp;&nbsp; Tel.   : +32(0)32470794 <br />
 &nbsp;&nbsp; Mail   : fvandenbroeck AT itg.be <br />
-&nbsp;&nbsp; Twitter: [@FBroeck](https://twitter.com/FBroeck) <br />
+&nbsp;&nbsp; <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ---
 
