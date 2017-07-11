@@ -1,14 +1,14 @@
-&nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
+**Dr Frederik Van den Broeck** <br />
 <img align="right" width="120" src="images/ID2.jpg"> <br />
-&nbsp;&nbsp; Department of Biomedical Sciences <br />
-&nbsp;&nbsp; Institute of Tropical Medicine <br />
-&nbsp;&nbsp; Nationalestraat 155 <br />
-&nbsp;&nbsp; Antwerp, Belgium <br />
-&nbsp;&nbsp; Tel.: +32(0)32470794 <br />
-&nbsp;&nbsp; Email: fvandenbroeck@itg.be <br />
-&nbsp;&nbsp; [Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) <br />
-&nbsp;&nbsp; <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
+Department of Biomedical Sciences, Institute of Tropical Medicine <br />
+Nationalestraat 155, Antwerp, Belgium <br />
 
+Tel.: +32(0)32470794 <br />
+Email: fvandenbroeck@itg.be <br />
+[Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) <br />
+
+<a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
+&nbsp;&nbsp; 
 ---
 
 I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
