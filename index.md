@@ -1,3 +1,8 @@
+<a class="twitter-follow-button"
+  href="https://twitter.com/FBroeck"
+  data-size="large">
+</a>
+
 <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
