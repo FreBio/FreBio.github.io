@@ -10,11 +10,14 @@
 
 ---
 
-I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
 <img align="right" height="120" src="images/ITM-logo_col_rgb_high.jpg"> <br />
+I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
+
 * [__Unit of Molecular Parasitology__](https://pure.itg.be/en/organisations/moleculaire-parasitologie(f9b203f9-2c4d-48ac-90b8-85e4a8928272).html) led by **Prof. JC Dujardin** ([@DujardinBiomed](https://twitter.com/DujardinBiomed))
-* [__Unit of Veterinary Protozoology__](https://pure.itg.be/en/organisations/veterinaire-protozooelogie(bc17ca80-35f8-4133-9560-2412fd194af4).html) led by **Prof. J Van Den Abbeele**. <br />
-<br />
+* [__Unit of Veterinary Protozoology__](https://pure.itg.be/en/organisations/veterinaire-protozooelogie(bc17ca80-35f8-4133-9560-2412fd194af4).html) led by **Prof. J Van Den Abbeele**.
+
+---
+
 I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes in natural populations? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
 
 While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook those **tropical diseases** that plague the world’s developing countries. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **Animal African Trypanosomiasis** or *nagana* and **Human Schistosomiasis**.
