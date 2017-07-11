@@ -1,7 +1,7 @@
 <a class="twitter-follow-button"
   href="https://twitter.com/FBroeck"
   data-size="large">
-</a>
+Follow @FBroeck</a>
 
 &nbsp;&nbsp; **Dr Frederik Van den Broeck** <br />
 <img align="right" width="120" src="images/ID2.jpg"> <br />
