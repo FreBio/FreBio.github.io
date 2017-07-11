@@ -1,5 +1,4 @@
 <a class="twitter-follow-button"
-  align="right"
   href="https://twitter.com/FBroeck"
   data-size="large">
 </a>
