@@ -4,11 +4,18 @@
 &nbsp;&nbsp; Institute of Tropical Medicine <br />
 &nbsp;&nbsp; Nationalestraat 155 <br />
 &nbsp;&nbsp; Antwerp, Belgium <br />
-&nbsp;&nbsp; Tel.   : +32(0)32470794 <br />
-&nbsp;&nbsp; Mail   : fvandenbroeck AT itg.be <br />
+&nbsp;&nbsp; Tel.: +32(0)32470794 <br />
+&nbsp;&nbsp; Email: fvandenbroeck@itg.be <br />
+&nbsp;&nbsp; [Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) 
 &nbsp;&nbsp; <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ---
+
+Github: @wasade
+Email: daniel.mcdonald@colorado.edu
+Twitter: @mcdonadt
+Google Scholar profile
+
 
 I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
 <img align="right" height="80" src="images/ITM-logo_col_rgb_high.jpg"> <br />
