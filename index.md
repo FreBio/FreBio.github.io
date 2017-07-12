@@ -1,4 +1,3 @@
-## Details
 <img align="right" height="150" src="images/ITM-logo_col_rgb_high.jpg">
 **Dr Frederik Van den Broeck** <br />
 [Unit of Molecular Parasitology](https://pure.itg.be/en/organisations/moleculaire-parasitologie(f9b203f9-2c4d-48ac-90b8-85e4a8928272).html); [Unit of Veterinary Protozoology](https://pure.itg.be/en/organisations/veterinaire-protozooelogie(bc17ca80-35f8-4133-9560-2412fd194af4).html) <br />
