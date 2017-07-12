@@ -7,7 +7,7 @@ Nationalestraat 155, Antwerp, Belgium <br />
 
 Tel.: +32(0)32470794 <br />
 Email: fvandenbroeck@itg.be <br />
-Publons: Reviewer and Editorial History <br />
+Publons: [Reviewer and Editorial History](https://publons.com/author/1257460) <br />
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ## Research interests
