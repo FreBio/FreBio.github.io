@@ -5,7 +5,6 @@ Department of Biomedical Sciences, Institute of Tropical Medicine <br />
 Nationalestraat 155, Antwerp, Belgium <br />
 +32(0)32470794 <br />
 fvandenbroeck@itg.be <br />
-[Reviewer and Editorial History](https://publons.com/author/1257460) <br />
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ## Research interests
