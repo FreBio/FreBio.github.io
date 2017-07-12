@@ -1,4 +1,5 @@
 ## 2017
+* The complexity and heterogeneity of the kinetoplast genome in hybrid trypanosomes. Animal Genetics and Diseases.  Wellcome Trust Sanger Institute. 22-22 September 2017. [POSTER PRESENTATION]
 * Speciation genomics of Leishmania Viannia. World Congress on Leishmaniasis. Toledo, Spain. 16-20 May 2017. [POSTER PRESENTATION]
 
 ## 2016
