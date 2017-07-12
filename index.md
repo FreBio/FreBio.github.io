@@ -1,16 +1,16 @@
 ## Details
 <img align="right" height="180" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 **Dr Frederik Van den Broeck** <br />
-[__Unit of Molecular Parasitology__](https://pure.itg.be/en/organisations/moleculaire-parasitologie(f9b203f9-2c4d-48ac-90b8-85e4a8928272).html); [__Unit of Veterinary Protozoology__](https://pure.itg.be/en/organisations/veterinaire-protozooelogie(bc17ca80-35f8-4133-9560-2412fd194af4).html) <br />
+[Unit of Molecular Parasitology](https://pure.itg.be/en/organisations/moleculaire-parasitologie(f9b203f9-2c4d-48ac-90b8-85e4a8928272).html); [Unit of Veterinary Protozoology](https://pure.itg.be/en/organisations/veterinaire-protozooelogie(bc17ca80-35f8-4133-9560-2412fd194af4).html) <br />
 Department of Biomedical Sciences, Institute of Tropical Medicine <br />
 Nationalestraat 155, Antwerp, Belgium <br />
-* Tel.: +32(0)32470794 <br />
-* Email: fvandenbroeck@itg.be <br />
-* Publons: Reviewer and Editorial History <br />
+Tel.: +32(0)32470794 <br />
+Email: fvandenbroeck@itg.be <br />
+Publons: Reviewer and Editorial History <br />
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ## Research interests
-I am a biologist specialized in **genetics/genomics** and working on **neglected tropical diseases**. 
+I am a biologist specialized in **genetics/genomics** and working on **infectious diseases** found in the **tropics**. 
 
 I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes in natural populations? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
 
