@@ -1,18 +1,15 @@
 **Dr Frederik Van den Broeck** <br />
-<img align="right" width="120" src="images/ID2.jpg"> <br />
+<img align="right" height="180" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 Department of Biomedical Sciences, Institute of Tropical Medicine <br />
 Nationalestraat 155, Antwerp, Belgium <br />
-
-Tel.: +32(0)32470794 <br />
-Email: fvandenbroeck@itg.be <br />
-[Google Scholar profile](https://scholar.google.be/citations?user=SW1M4M8AAAAJ&hl=nl) <br />
-
-<a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
+* Tel.: +32(0)32470794 <br />
+* Email: fvandenbroeck@itg.be <br />
+* Publons: Reviewer and Editorial History
+* Twitter: <a href="https://twitter.com/FBroeck" align="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ---
 
 I am a post-doctoral researcher specialized in **parasite genetics** at the [Department of Biomedical Sciences](http://www.itg.be/e/department-of-biomedical-sciences) in the Antwerp Institute of Tropical Medicine. I'm currently working in two units:
-<img align="right" height="80" src="images/ITM-logo_col_rgb_high.jpg"> <br />
 * [__Unit of Molecular Parasitology__](https://pure.itg.be/en/organisations/moleculaire-parasitologie(f9b203f9-2c4d-48ac-90b8-85e4a8928272).html) led by **Prof. JC Dujardin**
 * [__Unit of Veterinary Protozoology__](https://pure.itg.be/en/organisations/veterinaire-protozooelogie(bc17ca80-35f8-4133-9560-2412fd194af4).html) led by **Prof. J Van Den Abbeele**.
 
