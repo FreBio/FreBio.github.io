@@ -8,7 +8,7 @@ fvandenbroeck@itg.be <br />
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 ## Research interests
-<img align="left" height="250" src="images/IMG_1380.jpeg">
+<img align="left" height="300" src="images/IMG_1380.jpeg">
 I am a biologist specialized in **genetics/genomics** and working on **infectious diseases** found in the **tropics**. 
 
 I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes in natural populations? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
