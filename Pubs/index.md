@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2017
-* Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis. MOLECULAR ECOLOGY In press.
+* Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](https://doi.org/10.1111/mec.14271). MOLECULAR ECOLOGY.
 * Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum. GENOME BIOLOGY AND EVOLUTION In press.
 * Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G & **Van den Broeck F**. [Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt](https://doi.org/10.1016/j.actatropica.2017.04.002). ACTA TROPICA 172, 36-43.
 
