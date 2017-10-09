@@ -9,5 +9,5 @@
 * 2013, 2014 - Bio-informatics & Quantitative Genetics. University of Leuven. Instructor: Prof. F. Volckaert
 * 2012, 2013 - Ecology. University of Leuven. Instructor: Prof. R. Stoks
 
-## Introductory classes for the Medical Admission Tests
+## Introductory classes for Medical Admission Tests
 * 2013, 2015 - Principles of Genetics & Biotechnology. KULAK University.
