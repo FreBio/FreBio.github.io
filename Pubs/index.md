@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2017
-* Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 
+* Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361
 * Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](https://doi.org/10.1111/mec.14271). MOLECULAR ECOLOGY.
 * Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. [Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum](https://doi.org/10.1093/gbe/evx102). GENOME BIOLOGY AND EVOLUTION 9, 1990–1997.
 * Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G & **Van den Broeck F**. [Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt](https://doi.org/10.1016/j.actatropica.2017.04.002). ACTA TROPICA 172, 36-43.
@@ -26,8 +26,8 @@ layout: default
 * Meurs L, Mbow M, Boon N, **Van den Broeck F**, Vereecken K, Dièye TN, Abatih E, Huyse T, Mboup S, Polman K. [Micro-geographical heterogeneity in Schistosoma mansoni and S. haematobium infection and morbidity in a co-endemic community in Northern Senegal](https://doi.org/10.1371/journal.pntd.0002608). PLOS NEGLECTED TROPICAL DISEASES 7(12): e2608.
 
 ## 2012
-* Raeymaekers JAM, Lens L, **Van den Broeck F**, Van Dongen S & Volckaert FAM. [Quantifying population structure on short timescales](https://doi.org/10.1111/j.1365-294X.2012.05628.x). MOLECULAR ECOLOGY 21(14): 3458-73
+[3] Raeymaekers JAM, Lens L, **Van den Broeck F**, Van Dongen S & Volckaert FAM. [Quantifying population structure on short timescales](https://doi.org/10.1111/j.1365-294X.2012.05628.x). MOLECULAR ECOLOGY 21(14): 3458-73
 
 ## 2011
-* Adaui V, Maes I, Huyse T, **Van den Broeck F**, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. [Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru](10.1016/j.meegid.2011.08.008). INFECTION GENETICS AND EVOLUTION 11(8): 1873-1880.
-* **Van den Broeck F**, Geldof S, Polman K, Volckaert FAM & Huyse T. [Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni](10.1016/j.meegid.2011.05.006). INFECTION GENETICS AND EVOLUTION 11(6): 1413-1418.
+[2] Adaui V, Maes I, Huyse T, **Van den Broeck F**, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. [Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru](10.1016/j.meegid.2011.08.008). INFECTION GENETICS AND EVOLUTION 11(8): 1873-1880.
+[1] **Van den Broeck F**, Geldof S, Polman K, Volckaert FAM & Huyse T. [Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni](10.1016/j.meegid.2011.05.006). INFECTION GENETICS AND EVOLUTION 11(6): 1413-1418.
