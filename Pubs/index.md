@@ -3,17 +3,21 @@ layout: default
 ---
 
 ## 2017
-* Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361
-* Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](https://doi.org/10.1111/mec.14271). MOLECULAR ECOLOGY.
-* Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. [Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum](https://doi.org/10.1093/gbe/evx102). GENOME BIOLOGY AND EVOLUTION 9, 1990–1997.
-* Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G & **Van den Broeck F**. [Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt](https://doi.org/10.1016/j.actatropica.2017.04.002). ACTA TROPICA 172, 36-43.
+[16] Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361
+
+[15] Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](https://doi.org/10.1111/mec.14271). MOLECULAR ECOLOGY.
+
+[14] Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. [Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum](https://doi.org/10.1093/gbe/evx102). GENOME BIOLOGY AND EVOLUTION 9, 1990–1997.
+
+[13] Zein Eddine R, Djuikwo-Teukeng F, Dar Y, Dreyfuss G & **Van den Broeck F**. [Population genetics of the Schistosoma snail host Bulinus truncatus in Egypt](https://doi.org/10.1016/j.actatropica.2017.04.002). ACTA TROPICA 172, 36-43.
 
 ## 2016
-* Cuypers B, Lecordier L, Meehan C, **Van den Broeck F**, Imamura H, Büscher P, Dujardin JC, Laukens K, Schnaufer A, Deward C, Lewise M, Balmer O, Azuragog T, Kjei-Faried S, Oheneh SA, Duahi B, Homiahi P, Mensah EK, Anleah F, Franco JR, Pays E & Deborggraeve S. [Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection](https://doi.org/10.1128/mBio.02198-15). MBIO 7 (2) e02198-15.
-* Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC & Cotton JA. [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). ELIFE 5: e12613.
+[12] Cuypers B, Lecordier L, Meehan C, **Van den Broeck F**, Imamura H, Büscher P, Dujardin JC, Laukens K, Schnaufer A, Deward C, Lewise M, Balmer O, Azuragog T, Kjei-Faried S, Oheneh SA, Duahi B, Homiahi P, Mensah EK, Anleah F, Franco JR, Pays E & Deborggraeve S. [Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection](https://doi.org/10.1128/mBio.02198-15). MBIO 7 (2) e02198-15.
+
+[11] Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC & Cotton JA. [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). ELIFE 5: e12613.
 
 ## 2015
-*	**Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K & Huyse T. [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLOS NEGLECTED TROPICAL DISEASES 9(8): e0003998.
+[10]	**Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K & Huyse T. [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLOS NEGLECTED TROPICAL DISEASES 9(8): e0003998.
 
 ## 2014
 [9]	**Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K & Huyse T. [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) HEREDITY 113: 32-41.
