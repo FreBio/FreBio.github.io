@@ -30,4 +30,5 @@ layout: default
 
 ## 2011
 [2] Adaui V, Maes I, Huyse T, **Van den Broeck F**, Talledo M, Kuhls K, De Doncker S, Maes L, Llanos-Cuentas A, Schönian G, Arevalo J & Dujardin JC. [Multilocus genotyping reveals a polyphyletic pattern among naturally antimony-resistant Leishmania braziliensis isolates from Peru](10.1016/j.meegid.2011.08.008). INFECTION GENETICS AND EVOLUTION 11(8): 1873-1880.
+
 [1] **Van den Broeck F**, Geldof S, Polman K, Volckaert FAM & Huyse T. [Optimal sample storage and extraction protocols for reliable multilocus genotyping of the human parasite Schistosoma mansoni](10.1016/j.meegid.2011.05.006). INFECTION GENETICS AND EVOLUTION 11(6): 1413-1418.
