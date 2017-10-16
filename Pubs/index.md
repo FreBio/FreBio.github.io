@@ -5,7 +5,7 @@ layout: default
 ## 2017
 [16] Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361
 
-[15] Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](https://doi.org/10.1111/mec.14271). MOLECULAR ECOLOGY.
+[15] Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](http://onlinelibrary.wiley.com/doi/10.1111/mec.14271/abstract). MOLECULAR ECOLOGY.
 
 [14] Cuypers B, **Van den Broeck F**, Van Reet N, Meehan C, Cauchard J, Wilkes JM, Claes F, Goddeeris B, Hadush B, Dujardin JC, Laukens K, BÜscher P & Deborggraeve S. [Genome-wide SNP analysis reveals distinct origins of Trypanosoma evansi and Trypanosoma equiperdum](https://doi.org/10.1093/gbe/evx102). GENOME BIOLOGY AND EVOLUTION 9, 1990–1997.
 
