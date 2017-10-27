@@ -1,7 +1,7 @@
 ## Instructor
-* 2018 - Molecular Data in Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera.<br />
+* 2018 - Molecular Data in Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera.
 > coming soon  <br />
-* 2017 - Ecological and Evolutionary Genomics Course. University of Leuven. Director: Prof. Filip Volckaert<br />
+* 2017 - Ecological and Evolutionary Genomics Course. University of Leuven. Director: Prof. Filip Volckaert
 > Computerlab "*Evolutionary genomics of visceral leishmaniasis in the Indian subcontinent*"  <br />
 * 2017 - Molecular epidemiology Course. University of Antwerp. Director: Prof. Bouke de Jong.*  <br />
 > Lecture "*Introduction to population genetics*"  <br />
