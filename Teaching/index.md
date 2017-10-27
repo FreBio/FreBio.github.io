@@ -3,11 +3,11 @@
 * 2017 - Computerlab. Ecological and Evolutionary Genomics. University of Leuven. Director: Prof. Filip Volckaert
 * 2017 - Lectures. Molecular epidemiology. University of Antwerp. Director: Prof. Bouke de Jong.
 * 2016 - Workshop Applied Molecular Epidemiology of Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera <br />
-         * Lecture "*Introduction to population genetics*"  <br />
-         * Lecture "*Molecular epidemiology of Leishmaniasis*"  <br />
-         * Computerlab "*Population genomics of* Leishmania donovani"  <br />
+> Lecture "*Introduction to population genetics*"  <br />
+> Lecture "*Molecular epidemiology of Leishmaniasis*"  <br />
+> Computerlab "*Population genomics of* Leishmania donovani"  <br />
 * 2015 - Workshop Marine Ecological and Environmental Genomics. Roscoff. Director: Prof. F. Volckaert  <br />
-         * Computerlab "*Population genomics of the marine flatfish sole* Solea solea"  <br />
+> Computerlab "*Population genomics of the marine flatfish sole* Solea solea"  <br />
 
 ## Teaching assistant
 * 2013, 2014 - Bio-informatics & Quantitative Genetics. University of Leuven. Instructor: Prof. F. Volckaert
