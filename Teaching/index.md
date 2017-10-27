@@ -4,9 +4,9 @@
 * 2017 - Ecological and Evolutionary Genomics Course. University of Leuven. Director: Prof. Filip Volckaert
 > Computerlab "*Evolutionary genomics of visceral leishmaniasis in the Indian subcontinent*"  <br />
 * 2017 - Molecular epidemiology Course . University of Antwerp. Director: Prof. Bouke de Jong.
-> Lecture "*Introduction to population genetics*"
-> Lecture "*Molecular epidemiology of* Schistosoma mansoni"
-> Lecture "*Molecular epidemiology of* Trypanosoma *spp.*"
+> Lecture "*Introduction to population genetics*"  <br />
+> Lecture "*Molecular epidemiology of* Schistosoma mansoni"  <br />
+> Lecture "*Molecular epidemiology of* Trypanosoma *spp.*"  <br />
 * 2016 - Applied Molecular Epidemiology of Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera <br />
 > Lecture "*Introduction to population genetics*"  <br />
 > Lecture "*Molecular epidemiology of leishmaniasis*"  <br />
