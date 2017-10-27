@@ -2,9 +2,9 @@
 * 2018 - Lectures, computerlabs and online learning modules. Workshop on Molecular Data in Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera.
 * 2017 - Computerlab. Ecological and Evolutionary Genomics. University of Leuven. Director: Prof. Filip Volckaert
 * 2017 - Lectures. Molecular epidemiology. University of Antwerp. Director: Prof. Bouke de Jong.
-* 2016 - Workshop Applied Molecular Epidemiology of Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera
+* 2016 - Workshop Applied Molecular Epidemiology of Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera <br />
 ⋅⋅*
-* 2015 - Workshop Marine Ecological and Environmental Genomics. Roscoff. Director: Prof. F. Volckaert
+* 2015 - Workshop Marine Ecological and Environmental Genomics. Roscoff. Director: Prof. F. Volckaert  <br />
          * Computer tutorial on population genomics of *Solea*
 * 2012 - Computerlab *Introduction to R*. Antwerp Institute of Tropical Medicine. Director: Dr. Vincent Sluydts
 
