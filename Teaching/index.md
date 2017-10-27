@@ -5,7 +5,7 @@
 * 2016 - Workshop Applied Molecular Epidemiology of Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera
 ⋅⋅*
 * 2015 - Workshop Marine Ecological and Environmental Genomics. Roscoff. Director: Prof. F. Volckaert
-⋅⋅* Computer tutorial on population genomics of *Solea*
+         * Computer tutorial on population genomics of *Solea*
 * 2012 - Computerlab *Introduction to R*. Antwerp Institute of Tropical Medicine. Director: Dr. Vincent Sluydts
 
 ## Teaching assistant
