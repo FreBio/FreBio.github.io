@@ -1,12 +1,17 @@
 ## Instructor
-* 2018 - Lectures, computerlabs and online learning modules. Workshop on Molecular Data in Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera.
-* 2017 - Computerlab. Ecological and Evolutionary Genomics. University of Leuven. Director: Prof. Filip Volckaert
-* 2017 - Lectures. Molecular epidemiology. University of Antwerp. Director: Prof. Bouke de Jong.
-* 2016 - Workshop Applied Molecular Epidemiology of Infectious Diseases. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera <br />
+* 2018 - Molecular Data in Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera.
+> coming soon
+* 2017 - Ecological and Evolutionary Genomics Course. University of Leuven. Director: Prof. Filip Volckaert
+> Computerlab "*Population genomics of* Leishmania donovani *in the Indian subcontinent*"  <br />
+* 2017 - Molecular epidemiology Course . University of Antwerp. Director: Prof. Bouke de Jong.
+> Lecture "*Introduction to population genetics*"
+> Lecture "*Molecular epidemiology of* Schistosoma mansoni"
+> Lecture "*Molecular epidemiology of* Trypanosoma *spp.*"
+* 2016 - Applied Molecular Epidemiology of Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine. Director: Dr. Gert Van Der Auwera <br />
 > Lecture "*Introduction to population genetics*"  <br />
 > Lecture "*Molecular epidemiology of Leishmaniasis*"  <br />
-> Computerlab "*Population genomics of* Leishmania donovani"  <br />
-* 2015 - Workshop Marine Ecological and Environmental Genomics. Roscoff. Director: Prof. F. Volckaert  <br />
+> Computerlab "*Population genomics of* Leishmania donovani *in the Indian subcontinent*"  <br />
+* 2015 - Marine Ecological and Environmental Genomics Workshop. Roscoff. Director: Prof. F. Volckaert  <br />
 > Computerlab "*Population genomics of the marine flatfish sole* Solea solea"  <br />
 
 ## Teaching assistant
