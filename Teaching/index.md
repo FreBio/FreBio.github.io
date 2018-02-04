@@ -1,7 +1,7 @@
 ## Instructor
 * 2018 - Molecular Data in Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine.
 > coming soon  <br />
-* 2017 - Ecological and Evolutionary Genomics Course. University of Leuven.
+* 2017, 2018 - Ecological and Evolutionary Genomics Course. University of Leuven.
 > Computerlab "*Evolutionary genomics of visceral leishmaniasis in the Indian subcontinent*"  <br />
 * 2017, 2018 - Molecular epidemiology Course. University of Antwerp.
 > Lecture "*Introduction to population genetics*"  <br />
