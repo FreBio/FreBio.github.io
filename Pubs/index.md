@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
+## 2018
+[17] Huyse T, Boon N, **Van den Broeck F**, Mbow M, Chaturvedi A, Meurs L, Volckaert F, Polman K.[Evolutionary epidemiology of schistosomiasis: linking parasite genetics with disease phenotype in humans](https://doi.org/10.1016/j.ijpara.2017.07.010). INTERNATIONAL JOURNAL OF PARASITOLOGY. 48 (2), 107-115.
 
 ## 2017
-[17] Huyse T, Boon N, **Van den Broeck F**, Mbow M, Chaturvedi A, Meurs L, Volckaert F, Polman K.[Evolutionary epidemiology of schistosomiasis: linking parasite genetics with disease phenotype in humans](https://doi.org/10.1016/j.ijpara.2017.07.010). INTERNATIONAL JOURNAL OF PARASITOLOGY.
-
-[16] Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361
+[16] Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361.
 
 [15] Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](http://onlinelibrary.wiley.com/doi/10.1111/mec.14271/abstract). MOLECULAR ECOLOGY. 26, 6524–6538.
 
