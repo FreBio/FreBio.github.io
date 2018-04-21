@@ -10,11 +10,11 @@ fvandenbroeck@itg.be <br />
 
 ## Research interests
 <img align="right" height="300" src="images/IMG_1380.jpeg">
-I am a biologist specialized in **genetics/genomics** and working on **infectious diseases** found in the **tropics**. 
+I am a biologist working on **infectious diseases** found in the **tropics**. 
 
-I am particularly interested in understanding how **pathogens** evolve in nature, addressing questions such as: how do parasites become drug-resistant? Which genes are involved? What is the role of parasite sex in spreading those genes in natural populations? Answering these questions with **genomic data** could provide new hope in controlling or even eliminating diseases. 
+My main research interest is the use of **next generation sequencing** to better understand the biology and evolution of eukaryotic parasites within a clinical and epidemiological context. I believe **genomic data** could help controlling or eliminating diseases as it provides the power to identify genes underlying drug resistance or virulence, and trace their spread in natural **pathogen** populations.
 
-While HIV/AIDS, malaria and tuberculosis merit considerable scientific attention, it is important not to overlook those **tropical diseases** that plague the world’s developing countries. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **Animal African Trypanosomiasis** or *nagana* and **Human Schistosomiasis**.
+I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **Animal African Trypanosomiasis** or *nagana* and **Human Schistosomiasis**.
 
 ## Early childhood in Congo
 The roots of my fascination with the tropics can be traced to my **early childhood in Africa**, where I spent six years in the northern equatorial rainforest of the Democratic Republic of Congo (DRC). My interest in tropical diseases was sparked by the 1995 Ebola outbreak in Kikwit (DRC) because of its mysterious appearance and because it occurred in a country where I spent several formative years. From that moment onwards I have always wanted to work on infectious diseases. This aspiration became more concrete during my Biology studies at the University of Leuven, where I became particularly interested in **bridging evolutionary genetics and disease control**.
