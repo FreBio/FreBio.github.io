@@ -2,7 +2,9 @@
 layout: default
 ---
 ## 2018
-[17] Huyse T, Boon N, **Van den Broeck F**, Mbow M, Chaturvedi A, Meurs L, Volckaert F, Polman K.[Evolutionary epidemiology of schistosomiasis: linking parasite genetics with disease phenotype in humans](https://doi.org/10.1016/j.ijpara.2017.07.010). INTERNATIONAL JOURNAL OF PARASITOLOGY. 48 (2), 107-115.
+[18] Boon N, **Van den Broeck F**, Faye D, Volckaert FAM, Mboup S, Polman K, Huyse T. [Barcoding hybrids: heterogeneous distribution of *Schistosoma haematobium × Schistosoma bovis* hybrids across the Senegal River Basin](https://doi.org/10.1017/S0031182018000525). Parasitology. Published online.
+
+[17] Huyse T, Boon N, **Van den Broeck F**, Mbow M, Chaturvedi A, Meurs L, Volckaert F, Polman K. [Evolutionary epidemiology of schistosomiasis: linking parasite genetics with disease phenotype in humans](https://doi.org/10.1016/j.ijpara.2017.07.010). INTERNATIONAL JOURNAL OF PARASITOLOGY. 48 (2), 107-115.
 
 ## 2017
 [16] Tihon E, Imamura H, **Van den Broeck F**, Vermeiren L, Dujardin JC & Van Den Abbeele J. [Genomic analysis of Isometamidium Chloride resistance in *Trypanosoma congolense*](https://doi.org/10.1016/j.ijpddr.2017.10.002). INTERNATIONAL JOURNAL OF PARASITOLOGY: DRUGS AND DRUG RESISTANCE. 7, 350-361.
