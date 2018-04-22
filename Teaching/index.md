@@ -2,7 +2,7 @@
 * 2018 - Molecular Data in Infectious Diseases Workshop. Antwerp Institute of Tropical Medicine.
 > Lecture "Introducing pathogen population genetics"  <br />
 > Computerlab "Getting started with R and RSTUDIO"  <br />
-> Computerlab "Analyzing parasite population structure in STRUCTURE and R/RSTUDIO"  <br />
+> Computerlab "Analyzing parasite population structure: PCA and STRUCTURE"  <br />
 * 2017, 2018 - Ecological and Evolutionary Genomics Course. University of Leuven.
 > Computerlab "*Evolutionary genomics of visceral leishmaniasis in the Indian subcontinent*"  <br />
 * 2017, 2018 - Molecular epidemiology Course. University of Antwerp.
