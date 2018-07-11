@@ -2,6 +2,7 @@
 layout: default
 ---
 ## 2018
+[20] **Van den Broeck F**, Tavernier LJM, Vermeiren L, Dujardin JC, Van Den Abbeele J. Mito-nuclear genomics challenges the theory of clonality in Trypanosoma congolense. Reply to Tibayrenc and Ayala. Molecular Ecology. In press. [PREPRINT](https://frebio.github.io/Pubs/VandenBroecketal_2018_Mitonuclear%20genomics%20of%20Trypanosoma%20congolense.pdf)
 
 [19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Parallel sexual and parasexual population genomic structure in *Trypanosoma cruzi*](https://doi.org/10.1101/338277). bioRxiv. Published online.
 
