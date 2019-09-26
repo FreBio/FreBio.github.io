@@ -2,7 +2,7 @@
 layout: default
 ---
 ## 2019
-[19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca-Sánchez J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Meiotic sex in Chagas disease parasite *Trypanosoma cruzi*](https://10.1038/s41467-019-11771-z). Nature Communications. 10(1): 3972.
+[19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca-Sánchez J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Meiotic sex in Chagas disease parasite *Trypanosoma cruzi*](https://10.1038/s41467-019-11771-z). NATURE COMMUNICATIONS. 10(1): 3972.
 
 ## 2018
 [19] **Van den Broeck F**, Tavernier LJM, Vermeiren L, Dujardin JC, Van Den Abbeele J. [Mito-nuclear genomics challenges the theory of clonality in *Trypanosoma congolense*. Reply to Tibayrenc and Ayala](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14809). MOLECULAR ECOLOGY. 27: 3425-3431.
