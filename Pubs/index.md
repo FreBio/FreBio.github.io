@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-## 2018
-[20] **Van den Broeck F**, Tavernier LJM, Vermeiren L, Dujardin JC, Van Den Abbeele J. [Mito-nuclear genomics challenges the theory of clonality in *Trypanosoma congolense*. Reply to Tibayrenc and Ayala](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14809). MOLECULAR ECOLOGY. 27: 3425-3431.
+## 2019
+[19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca-Sánchez J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Meiotic sex in Chagas disease parasite *Trypanosoma cruzi*](https://10.1038/s41467-019-11771-z). Nature Communications. 10(1): 3972.
 
-[19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Parallel sexual and parasexual population genomic structure in *Trypanosoma cruzi*](https://doi.org/10.1101/338277). bioRxiv. Published online.
+## 2018
+[19] **Van den Broeck F**, Tavernier LJM, Vermeiren L, Dujardin JC, Van Den Abbeele J. [Mito-nuclear genomics challenges the theory of clonality in *Trypanosoma congolense*. Reply to Tibayrenc and Ayala](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14809). MOLECULAR ECOLOGY. 27: 3425-3431.
 
 [18] Boon N, **Van den Broeck F**, Faye D, Volckaert FAM, Mboup S, Polman K, Huyse T. [Barcoding hybrids: heterogeneous distribution of *Schistosoma haematobium × Schistosoma bovis* hybrids across the Senegal River Basin](https://doi.org/10.1017/S0031182018000525). PARASITOLOGY. 145 (5): 634-645.
 
