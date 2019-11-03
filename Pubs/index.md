@@ -2,6 +2,10 @@
 layout: default
 ---
 ## 2019
+[21] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://doi.org/10.1101/824912). BIORXIV.
+
+[20] Domagalska M, Imamura H, Sander M, **Van den Broeck F**, Bhattarai N, Vanaerschot M, Maes I, D’Haenens E, Rai K, Rijal S, Berriman M, Cotton J, Dujardin JC. Genomes of Leishmania parasites directly sequenced from patients with visceral leishmaniasis in the Indian subcontinent. PLOS NEGLECTED TROPICAL DISEASES. In press.
+
 [19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca-Sánchez J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Meiotic sex in Chagas disease parasite *Trypanosoma cruzi*](https://10.1038/s41467-019-11771-z). NATURE COMMUNICATIONS. 10(1): 3972.
 
 ## 2018
