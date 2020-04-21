@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
+
+## 2020
+[23] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Frederik Van den Broeck**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
+
+
 ## 2019
-[21] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://doi.org/10.1101/824912). BIORXIV.
+[22] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://doi.org/10.1101/824912). BIORXIV.
 
-[20] Domagalska M, Imamura H, Sander M, **Van den Broeck F**, Bhattarai N, Vanaerschot M, Maes I, D’Haenens E, Rai K, Rijal S, Berriman M, Cotton J, Dujardin JC. [Genomes of Leishmania parasites directly sequenced from patients with visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.1371/journal.pntd.0007900). PLOS NEGLECTED TROPICAL DISEASES. 13(12): e0007900.
+[21] Domagalska M, Imamura H, Sander M, **Van den Broeck F**, Bhattarai N, Vanaerschot M, Maes I, D’Haenens E, Rai K, Rijal S, Berriman M, Cotton J, Dujardin JC. [Genomes of Leishmania parasites directly sequenced from patients with visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.1371/journal.pntd.0007900). PLOS NEGLECTED TROPICAL DISEASES. 13(12): e0007900.
 
-[19] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca-Sánchez J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Meiotic sex in Chagas disease parasite *Trypanosoma cruzi*](https://10.1038/s41467-019-11771-z). NATURE COMMUNICATIONS. 10(1): 3972.
+[20] Schwabl P, Imamura H, **Van den Broeck F**, Costales JA, Maiguashca-Sánchez J, Miles MA, Andersson B, Grijalva MJ, Llewellyn MS. [Meiotic sex in Chagas disease parasite *Trypanosoma cruzi*](https://10.1038/s41467-019-11771-z). NATURE COMMUNICATIONS. 10(1): 3972.
 
 ## 2018
 [19] **Van den Broeck F**, Tavernier LJM, Vermeiren L, Dujardin JC, Van Den Abbeele J. [Mito-nuclear genomics challenges the theory of clonality in *Trypanosoma congolense*. Reply to Tibayrenc and Ayala](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14809). MOLECULAR ECOLOGY. 27: 3425-3431.
