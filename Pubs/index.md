@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2020
-[23] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Frederik Van den Broeck**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
+[23] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
 
 
 ## 2019
