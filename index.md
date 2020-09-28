@@ -16,10 +16,14 @@ My main research interest is the use of **next generation sequencing** to better
 
 I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **Animal African Trypanosomiasis** or *nagana* and **Human Schistosomiasis**.
 
-## Early childhood in Congo
-The roots of my fascination with the tropics can be traced to my **early childhood in Africa**, where I spent six years in the northern equatorial rainforest of the Democratic Republic of Congo (DRC). My interest in tropical diseases was sparked by the 1995 Ebola outbreak in Kikwit (DRC) because of its mysterious appearance and because it occurred in a country where I spent several formative years. From that moment onwards I have always wanted to work on infectious diseases. This aspiration became more concrete during my Biology studies at the University of Leuven, where I became particularly interested in **bridging evolutionary genetics and disease control**.
-<p align="center">
-  <img idth="450" height="350" src="images/congofre.jpg">
-</p>
+## Five main publications
 
+**Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF THE NATIONAL ACADAMY OF SCIENCES. 2020
 
+Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](http://onlinelibrary.wiley.com/doi/10.1111/mec.14271/abstract). MOLECULAR ECOLOGY. 26 (23): 6524–6538. 2017
+
+**Imamura H, Downing T, Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC & Cotton JA. [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). ELIFE. 5: e12613. 2016
+
+**Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K & Huyse T. [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLOS NEGLECTED TROPICAL DISEASES. 9 (8): e0003998. 2015
+
+**Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K & Huyse T. [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) HEREDITY. 113: 32-41. 2014
