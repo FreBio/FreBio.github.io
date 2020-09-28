@@ -7,7 +7,7 @@ I am a biologist working on **infectious diseases** found in the **tropics**.
 
 My main research interest is the use of **next generation sequencing** to better understand the biology and evolution of eukaryotic parasites within a clinical and epidemiological context. I believe **genomic data** could help controlling or eliminating diseases as it provides the power to identify genes underlying drug resistance or virulence, and trace their spread in natural **pathogen** populations.
 
-I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **Animal African Trypanosomiasis** or *nagana* and **Human Schistosomiasis**.
+I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **African Trypanosomiasis** and **Human Schistosomiasis**.
 
 ## Five main publications
 
