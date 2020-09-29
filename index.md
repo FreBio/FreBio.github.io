@@ -24,7 +24,7 @@ Knack: [Parasieten profiteren van ons](https://bio.kuleuven.be/eeb/lbeg/docs/Kna
 
 KUL nieuws: [Congo-expeditie rond biodiversiteit](https://nieuws.kuleuven.be/nl/campuskrant/0910/08/congo-expeditie-rond-biodiversiteit)
 
-Science Faculty News: [Boyekoli Ebale Congo 2010 (lingala voor ‘Studie van de Rivier’)]()
+Science Faculty News: [Boyekoli Ebale Congo 2010 (lingala voor ‘Studie van de Rivier’)](https://github.com/FreBio/FreBio.github.io/Boyekoli Ebale Congo 2010 (lingala voor ‘Studie van de Rivier’).pdf)
 
 ## Five main publications
 
