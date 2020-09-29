@@ -9,7 +9,7 @@ My main research interest is the use of **next generation sequencing** to better
 
 I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **African Trypanosomiasis** and **Human Schistosomiasis**.
 
-## Media coverage about some of my works
+## Media coverage
 VRT NWS: [Belgische wetenschappers vinden link tussen klimaatverandering en nieuwe ziekteverwekkers](https://www.vrt.be/vrtnws/nl/2020/09/23/klimaatveradnering-nieuwe-ziekte-itg/)
 
 EOS: [Zo ontstaat een nieuwe ziekte](https://www.eoswetenschap.eu/natuur-milieu/zo-ontstaat-een-nieuwe-ziekte)
