@@ -11,13 +11,19 @@ I'm particular interested in studying **neglected tropical diseases**, namely di
 
 ## Media coverage about some of my works
 VRT NWS: [Belgische wetenschappers vinden link tussen klimaatverandering en nieuwe ziekteverwekkers](https://www.vrt.be/vrtnws/nl/2020/09/23/klimaatveradnering-nieuwe-ziekte-itg/)
+
 EOS: [Zo ontstaat een nieuwe ziekte](https://www.eoswetenschap.eu/natuur-milieu/zo-ontstaat-een-nieuwe-ziekte)
+
 Het laatste nieuws: [Na dertig jaar uitgeklaard: ook parasieten hebben seks](https://www.hln.be/wetenschap-planeet/wetenschap/na-dertig-jaar-uitgeklaard-ook-parasieten-hebben-seks~a662bcc5/)
+
 De Standaard: [Schistosomiase-parasiet slaat toe in Noord-Senegal na bouw van twee dammen](https://www.standaard.be/cnt/dmf20150814_01818987)
+
 De Morgen: [Parasiet slaat toe in Noord-Senegal na bouw van twee dammen](https://www.demorgen.be/nieuws/parasiet-slaat-toe-in-noord-senegal-na-bouw-van-twee-dammen~b7b24dce/)
+
 Knack: [Parasieten profiteren van ons](https://bio.kuleuven.be/eeb/lbeg/docs/Knack-02-09-2015-Parasieten%20profiteren%20van%20ons.pdf)
 
 KUL nieuws: [Congo-expeditie rond biodiversiteit](https://nieuws.kuleuven.be/nl/campuskrant/0910/08/congo-expeditie-rond-biodiversiteit)
+
 Science Faculty News: [Boyekoli Ebale Congo 2010 (lingala voor ‘Studie van de Rivier’)]()
 
 ## Five main publications
