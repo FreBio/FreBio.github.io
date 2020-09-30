@@ -12,6 +12,8 @@ I'm particular interested in studying **neglected tropical diseases**, namely di
 ## Media coverage
 VRT NWS: [Belgische wetenschappers vinden link tussen klimaatverandering en nieuwe ziekteverwekkers](https://www.vrt.be/vrtnws/nl/2020/09/23/klimaatveradnering-nieuwe-ziekte-itg/)
 
+EOS blog: [In de voetsporen van een nieuwe soort](https://www.eoswetenschap.eu/natuur-milieu/de-voetsporen-van-een-nieuwe-soort)
+
 EOS: [Zo ontstaat een nieuwe ziekte](https://www.eoswetenschap.eu/natuur-milieu/zo-ontstaat-een-nieuwe-ziekte)
 
 Het laatste nieuws: [Na dertig jaar uitgeklaard: ook parasieten hebben seks](https://www.hln.be/wetenschap-planeet/wetenschap/na-dertig-jaar-uitgeklaard-ook-parasieten-hebben-seks~a662bcc5/)
