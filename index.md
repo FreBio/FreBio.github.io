@@ -3,7 +3,7 @@
 
 ## Research interests
 <img align="right" height="300" src="images/IMG_1380.jpeg">
-I am a biologist working on **infectious diseases** found in the **tropics**. 
+I am a biologist working on **infectious diseases** found in the **tropics**.
 
 My primary research interest lies in understanding the **evolution of tropical pathogens** using genomic, epidemiological and historical data. I’m very excited about the research areas of evolutionary genetics and **computational biology**, especially in combination with mining high-throughput sequencing data.
 
