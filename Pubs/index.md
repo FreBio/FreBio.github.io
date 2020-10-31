@@ -3,9 +3,11 @@ layout: default
 ---
 
 ## 2020
+[24] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
+
 [23] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
 
-[22] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF THE NATIONAL ACADAMY OF SCIENCES.
+[22] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF NATIONAL ACADEMY OF SCIENCES. 2020. 117(40): 25159-25168.
 
 ## 2019
 [21] Domagalska M, Imamura H, Sander M, **Van den Broeck F**, Bhattarai N, Vanaerschot M, Maes I, D’Haenens E, Rai K, Rijal S, Berriman M, Cotton J, Dujardin JC. [Genomes of Leishmania parasites directly sequenced from patients with visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.1371/journal.pntd.0007900). PLOS NEGLECTED TROPICAL DISEASES. 13(12): e0007900.
