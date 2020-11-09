@@ -1,5 +1,5 @@
 
-<img align="center" height="100" src="images/Senegal logo 2.png">
+<img align="center" height="100" src="images/Senegallogo2.png">
 
 In 2012, I founded the interest group **Hopital Richard Toll Senegal** to provide support to the hospital *Etablissement Public de Santé de Richard Toll* in northern Senegal. The hospital is important for the public health in the area of Richard Toll, and it is also a crucial research center aiding various international research groups in studying and controlling parasitic diseases. One of the most debilitating diseases in northern Senegal is the highly epidemic disease schistosomiasis, which causes cognitive and physical retardation of many children. 
 
