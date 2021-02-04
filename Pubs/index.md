@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2021
-Rey O, Webster B, Huyse T, Rollinson D, **Van den Broeck F**, Kincaid-Smith J, Onyekwere A, Boissier J. [Population genetics of African Schistosoma species](https://www.sciencedirect.com/science/article/abs/pii/S1567134821000241#!). INFECTION GENETICS AND EVOLUTION.
+Rey O, Webster B, Huyse T, Rollinson D, **Van den Broeck F**, Kincaid-Smith J, Onyekwere A, Boissier J. [Population genetics of African Schistosoma species](https://www.sciencedirect.com/science/article/abs/pii/S1567134821000241#!). INFECTION GENETICS AND EVOLUTION. 89: 104727.
 
 ## 2020
 [24] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
