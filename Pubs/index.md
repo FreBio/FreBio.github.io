@@ -2,14 +2,15 @@
 layout: default
 ---
 
+## In progress
+[25] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
+
+[24] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
+
 ## 2021
-Rey O, Webster B, Huyse T, Rollinson D, **Van den Broeck F**, Kincaid-Smith J, Onyekwere A, Boissier J. [Population genetics of African Schistosoma species](https://www.sciencedirect.com/science/article/abs/pii/S1567134821000241#!). INFECTION GENETICS AND EVOLUTION. 89: 104727.
+[23] Rey O, Webster B, Huyse T, Rollinson D, **Van den Broeck F**, Kincaid-Smith J, Onyekwere A, Boissier J. [Population genetics of African Schistosoma species](https://www.sciencedirect.com/science/article/abs/pii/S1567134821000241#!). INFECTION GENETICS AND EVOLUTION. 89: 104727.
 
 ## 2020
-[24] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
-
-[23] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
-
 [22] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF NATIONAL ACADEMY OF SCIENCES. 117(40): 25159-25168.
 
 ## 2019
