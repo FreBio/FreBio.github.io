@@ -6,7 +6,8 @@ description:  Information about me, PhD, Projects, Research lines, Blogs, Script
 url:          https://frebio.github.io
 search:       true
 twitter:      FBroeck
-
+baseurl:      https://frebio.github.io
+google_analytics: https://frebio.github.io
 
 
 # Site owner
