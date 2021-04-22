@@ -1,10 +1,11 @@
 **Frederik Van den Broeck, PhD** <br />
+
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 
 ### Research interests
 <img align="right" height="300" src="images/IMG_1380.jpeg">
-<font size="1">
+<font size="3">
 I am a biologist working on **infectious diseases** found in the **tropics**.
 
 My primary research interest lies in understanding the **evolution of tropical pathogens** using genomic, epidemiological and historical data. I’m very excited about the research areas of evolutionary genetics and **computational biology**, especially in combination with mining high-throughput sequencing data.
