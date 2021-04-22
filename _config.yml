@@ -1,5 +1,5 @@
 # Site wide configuration
-title:        Frederik Van den Broeck w/ GitHub Blog
+title:        Frederik Van den Broeck
 author:       Frederik Van den Broeck
 locale:       en_US
 description:  Information about me, PhD, Projects, Research lines, Blogs, Scripts, programs, parasite evolution and hybridization - neglected tropical diseases - evolutionary genomics - bioinformatics
@@ -8,8 +8,7 @@ search:       true
 twitter:      FBroeck
 baseurl:      https://frebio.github.io
 google_analytics: https://frebio.github.io
-
-
+  
 # Site owner
 owner:
   name: Frederik Van den Broeck
