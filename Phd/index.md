@@ -18,5 +18,5 @@ I designed **genetic markers** (chapter 2) to reconstruct the **history of** thi
 
 ---
 Sampling snails - the vector of *Schistosoma* - in northern Senegal
-![Sampling snails - the vector of *Schistosoma* - in northern Senegal](/images/SAM_1340.JPG)
+<img align="left" height="400" src="images/SAM_1340.JPG">
 
