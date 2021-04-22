@@ -6,6 +6,7 @@ Department of Biomedical Sciences, Antwerp Institute of Tropical Medicine, Belgi
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 
+
 # Research interests
 <img align="right" height="300" src="images/IMG_1380.jpeg">
 I am a biologist working on **infectious diseases** found in the **tropics**.
@@ -15,8 +16,10 @@ My primary research interest lies in understanding the **evolution of tropical p
 I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **African Trypanosomiasis** and **Human Schistosomiasis**.
 
 
+
 # Popular articles
 EOS blog: [In de voetsporen van een nieuwe soort](https://www.eoswetenschap.eu/natuur-milieu/de-voetsporen-van-een-nieuwe-soort)
+
 
 
 # Main scientific articles
@@ -29,6 +32,7 @@ Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Manna
 **Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K & Huyse T. [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLOS NEGLECTED TROPICAL DISEASES. 9 (8): e0003998. 2015
 
 **Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K & Huyse T. [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) HEREDITY. 113: 32-41. 2014
+
 
 
 # Media coverage
