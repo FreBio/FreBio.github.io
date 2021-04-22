@@ -1,5 +1,8 @@
 **Frederik Van den Broeck, PhD** <br />
-
+<font size="3">
+Rega Institute of Medical Research, KU Leuven, Belgium
+Antwerp Institute of Tropical Medicine, Belgium
+</font>
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 
