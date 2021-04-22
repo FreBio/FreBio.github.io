@@ -13,11 +13,11 @@ My primary research interest lies in understanding the **evolution of tropical p
 I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **African Trypanosomiasis** and **Human Schistosomiasis**.
 
 <br />
-## Popular articles
+# Popular articles
 EOS blog: [In de voetsporen van een nieuwe soort](https://www.eoswetenschap.eu/natuur-milieu/de-voetsporen-van-een-nieuwe-soort)
 
 <br />
-### Main scientific articles
+# Main scientific articles
 **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF THE NATIONAL ACADAMY OF SCIENCES. 2020
 
 Tihon E, Imamura H, Dujardin JC, Van Den Abbeele J & **Van den Broeck F**. [Discovery and genomic analyses of hybridization between divergent lineages of *Trypanosoma congolense*, causative agent of Animal African Trypanosomiasis](http://onlinelibrary.wiley.com/doi/10.1111/mec.14271/abstract). MOLECULAR ECOLOGY. 26 (23): 6524–6538. 2017
@@ -29,7 +29,7 @@ Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Manna
 **Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K & Huyse T. [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) HEREDITY. 113: 32-41. 2014
 
 <br />
-### Media coverage
+# Media coverage
 VRT NWS: [Belgische wetenschappers vinden link tussen klimaatverandering en nieuwe ziekteverwekkers](https://www.vrt.be/vrtnws/nl/2020/09/23/klimaatveradnering-nieuwe-ziekte-itg/)
 
 EOS: [Zo ontstaat een nieuwe ziekte](https://www.eoswetenschap.eu/natuur-milieu/zo-ontstaat-een-nieuwe-ziekte)
