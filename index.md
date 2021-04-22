@@ -33,6 +33,12 @@ Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Manna
 **Van den Broeck F**, Meurs L, Raeymaekers JAM, Boon N, Tandakha N, Volckaert FAM, Polman K & Huyse T. [Inbreeding within human Schistosoma mansoni: do host-specific factors shape the genetic composition of parasite populations?](https://doi.org/10.1038/hdy.2014.13) HEREDITY. 113: 32-41. 2014
 
 
+# Invited presentations
+Genomic epidemiology of T. b. gambiense, agent of Human African Trypanosomiasis. Departmental seminar at the University of Edinburgh (2020)
+Natural variation and recent evolution of cutaneous leishmaniasis in South-America. Seminar at the BIOMedical Informatics research Network Antwerp (2019)
+Speciation genomics of parasitic protozoa. Plenary Speaker at MEEGID XIV, Sitges, Spain (2018)
+Population genomics of New World Leishmania species along and across the Peruvian Andes. Departmental seminar at the London School of Hygiene and Tropical Medicine (2018)
+
 
 # Media coverage
 VRT NWS: [Belgische wetenschappers vinden link tussen klimaatverandering en nieuwe ziekteverwekkers](https://www.vrt.be/vrtnws/nl/2020/09/23/klimaatveradnering-nieuwe-ziekte-itg/)
