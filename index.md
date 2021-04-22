@@ -8,13 +8,11 @@ Antwerp Institute of Tropical Medicine, Belgium
 
 ### Research interests
 <img align="right" height="300" src="images/IMG_1380.jpeg">
-<font size="3">
 I am a biologist working on **infectious diseases** found in the **tropics**.
 
 My primary research interest lies in understanding the **evolution of tropical pathogens** using genomic, epidemiological and historical data. I’m very excited about the research areas of evolutionary genetics and **computational biology**, especially in combination with mining high-throughput sequencing data.
 
 I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **African Trypanosomiasis** and **Human Schistosomiasis**.
-</font>
 
 ### Media coverage
 VRT NWS: [Belgische wetenschappers vinden link tussen klimaatverandering en nieuwe ziekteverwekkers](https://www.vrt.be/vrtnws/nl/2020/09/23/klimaatveradnering-nieuwe-ziekte-itg/)
