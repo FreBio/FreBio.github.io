@@ -2,7 +2,7 @@
 **Frederik Van den Broeck, PhD** <br />
 Rega Institute for Medical Research, KU Leuven, Belgium. <br />
 Department of Biomedical Sciences, Antwerp Institute of Tropical Medicine, Belgium. <br />
-<a href="mailto:fvandenbroeck@gmail.com">email</a>
+<a href="mailto:fvandenbroeck@gmail.com">email</a> <br />
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 <br />
