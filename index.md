@@ -34,10 +34,10 @@ Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Manna
 
 
 # Invited presentations
-Genomic epidemiology of T. b. gambiense, agent of Human African Trypanosomiasis. Departmental seminar at the University of Edinburgh (2020)
-Natural variation and recent evolution of cutaneous leishmaniasis in South-America. Seminar at the BIOMedical Informatics research Network Antwerp (2019)
-Speciation genomics of parasitic protozoa. Plenary Speaker at MEEGID XIV, Sitges, Spain (2018)
-Population genomics of New World Leishmania species along and across the Peruvian Andes. Departmental seminar at the London School of Hygiene and Tropical Medicine (2018)
+* **Genomic epidemiology of T. b. gambiense, agent of Human African Trypanosomiasis.** Departmental seminar at the University of Edinburgh (2020)
+* **Natural variation and recent evolution of cutaneous leishmaniasis in South-America.** Seminar at the BIOMedical Informatics research Network Antwerp (2019)
+* **Speciation genomics of parasitic protozoa.** Plenary Speaker at MEEGID XIV, Sitges, Spain (2018)
+* **Population genomics of New World Leishmania species along and across the Peruvian Andes.** Departmental seminar at the London School of Hygiene and Tropical Medicine (2018)
 
 
 # Media coverage
