@@ -3,8 +3,8 @@ layout: default
 ---
 **Title:** Evolutionary potential of the human parasite *Schistosoma manosoni* in a changing world <br />
 **Supervisors:**  Dr. Tine Huyse, Dr. Katja Polman and Dr. Filip Volckaert <br />
-**Lab 1:** Laboratory of Biodiversity and Evolutionary Genomics, University of Leuven <br />
-**Lab 2:** Unit of Medical Helminthology, Institute of Tropical Medicine <br />
+**Lab 1:** Laboratory of Biodiversity and Evolutionary Genomics, KU Leuven <br />
+**Lab 2:** Unit of Medical Helminthology, Antwerp Institute of Tropical Medicine <br />
 **Date:** 20 May 2014 <br />
 **ISBN:** 978X90X8649X714X0 <br />
 **Funding:** [VLIR-UOS](http://www.vliruos.be) <br />
