@@ -1,5 +1,4 @@
 <br />
-<br />
 <img align="right" height="300" src="images/IMG_1380.jpeg">
 **Frederik Van den Broeck, PhD** <br />
 Rega Institute for Medical Research, KU Leuven, Belgium. <br />
