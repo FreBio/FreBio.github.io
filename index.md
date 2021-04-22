@@ -4,7 +4,7 @@ Department of Biomedical Sciences, Antwerp Institute of Tropical Medicine, Belgi
 <a href="https://twitter.com/FBroeck" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
 <br />
-### Research interests
+# Research interests
 <img align="right" height="300" src="images/IMG_1380.jpeg">
 I am a biologist working on **infectious diseases** found in the **tropics**.
 
@@ -13,7 +13,7 @@ My primary research interest lies in understanding the **evolution of tropical p
 I'm particular interested in studying **neglected tropical diseases**, namely diseases that plague the wolrd's developing countries but still receive far too little scientific attention compared to diseases such as HIV/AIDS, malaria and tuberculosis. My research focuses on three such diseases that have devastating worldwide consequences for both human and animal health, namely **(Muco-)cutaneous leishmaniasis** or *espundia*, **African Trypanosomiasis** and **Human Schistosomiasis**.
 
 <br />
-### Popular articles
+## Popular articles
 EOS blog: [In de voetsporen van een nieuwe soort](https://www.eoswetenschap.eu/natuur-milieu/de-voetsporen-van-een-nieuwe-soort)
 
 <br />
