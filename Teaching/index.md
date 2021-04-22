@@ -16,8 +16,8 @@
 > Computerlab "*Population genomics of the marine flatfish sole* Solea solea"  <br />
 
 ## Teaching assistant
-* 2013, 2014 - Bio-informatics & Quantitative Genetics. University of Leuven.
-* 2012, 2013 - Ecology. University of Leuven.
+* 2013, 2014 - **Bio-informatics & Quantitative Genetics**. University of Leuven.
+* 2012, 2013 - **Ecology**. University of Leuven.
 
 ## Introductory classes for Medical Admission Tests
-* 2013, 2015 - Principles of Genetics & Biotechnology. KULAK University.*
+* 2013, 2015 - **Principles of Genetics & Biotechnology**. KULAK University.*
