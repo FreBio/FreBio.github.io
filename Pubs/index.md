@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## In progress
-[25] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
+[26] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
 
-[24] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
+[25] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
 
 ## 2021
 [24] Lemey P, Ruktanonchai N, Hong S, Colizza V, Poletto C, **Van den Broeck F**, Gill M, Ji X, Levasseur A, Oude Munnink B, Koopmans M, Sadilek A, Lai A, Tatem A, Baele G, Suchard M & Dellicour S. [Untangling introductions and persistence in COVID-19 resurgence in Europe](https://www.nature.com/articles/s41586-021-03754-2). NATURE. 
