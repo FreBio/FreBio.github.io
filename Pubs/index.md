@@ -3,17 +3,17 @@ layout: default
 ---
 
 ## In progress
-[26] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
-
-[25] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
+[26] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal Leishmania donovani population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
 
 ## 2021
-[24] Lemey P, Ruktanonchai N, Hong S, Colizza V, Poletto C, **Van den Broeck F**, Gill M, Ji X, Levasseur A, Oude Munnink B, Koopmans M, Sadilek A, Lai A, Tatem A, Baele G, Suchard M & Dellicour S. [Untangling introductions and persistence in COVID-19 resurgence in Europe](https://www.nature.com/articles/s41586-021-03754-2). NATURE. 
+[25] Lemey P, Ruktanonchai N, Hong S, Colizza V, Poletto C, **Van den Broeck F**, Gill M, Ji X, Levasseur A, Oude Munnink B, Koopmans M, Sadilek A, Lai A, Tatem A, Baele G, Suchard M & Dellicour S. [Untangling introductions and persistence in COVID-19 resurgence in Europe](https://www.nature.com/articles/s41586-021-03754-2). NATURE. 
 
-[23] Rey O, Webster B, Huyse T, Rollinson D, **Van den Broeck F**, Kincaid-Smith J, Onyekwere A, Boissier J. [Population genetics of African Schistosoma species](https://www.sciencedirect.com/science/article/abs/pii/S1567134821000241#!). INFECTION GENETICS AND EVOLUTION. 89: 104727.
+[24] Rey O, Webster B, Huyse T, Rollinson D, **Van den Broeck F**, Kincaid-Smith J, Onyekwere A, Boissier J. [Population genetics of African Schistosoma species](https://www.sciencedirect.com/science/article/abs/pii/S1567134821000241#!). INFECTION GENETICS AND EVOLUTION. 89: 104727.
 
 ## 2020
-[22] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF NATIONAL ACADEMY OF SCIENCES. 117(40): 25159-25168.
+[23] **Van den Broeck F**, Savill N, Imamura H, Sanders M, Maes I, Cooper S, Mateus D, Jara M, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Cupolillo E, Miles M, Berriman M, Schnaufer A, Cotton J, Dujardin JC. [Ecological divergence and hybridization of Neotropical Leishmania parasites](https://www.pnas.org/content/early/2020/09/18/1920136117). PROCEEDINGS OF NATIONAL ACADEMY OF SCIENCES. 117(40): 25159-25168.
+
+[22] **Van den Broeck F**, Vanoverbeke J, Polman K, Huyse T. [A Darwinian outlook on schistosomiasis elimination](https://doi.org/10.1101/2020.10.28.358523). BIORXIV. 2020.
 
 ## 2019
 [21] Domagalska M, Imamura H, Sander M, **Van den Broeck F**, Bhattarai N, Vanaerschot M, Maes I, D’Haenens E, Rai K, Rijal S, Berriman M, Cotton J, Dujardin JC. [Genomes of Leishmania parasites directly sequenced from patients with visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.1371/journal.pntd.0007900). PLOS NEGLECTED TROPICAL DISEASES. 13(12): e0007900.
