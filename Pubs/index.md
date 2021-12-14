@@ -3,10 +3,10 @@ layout: default
 ---
 Equal contribution: *
 
-## In progress
-[28] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [Exploring the evolution and adaptive role of mosaic aneuploidy in a clonal *Leishmania donovani* population using high throughput single cell genome sequencing](https://doi.org/10.1101/2020.03.05.976233). BIORXIV.
 
 ## 2021
+[28] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [High throughput single-cell genome sequencing gives insights into the generation and evolution of mosaic aneuploidy in Leishmania donovani](https://doi.org/10.1093/nar/gkab1203). NUCLEIC ACIDS RESEARCH.
+
 [27] Achtman M, **Van den Broeck F**, Cooper K, Lemey P, Parker C, Zhou Z. [Genomic population structure associated with repeated escape of Salmonella enterica ATCC14028s from the laboratory into nature](https://pubmed.ncbi.nlm.nih.gov/34570761). PLOS GENETICS.
 
 [26] Geerts M, Schnaufer A, **Van den Broeck F**. [rKOMICS: an R package for processing mitochondrial minicircle assemblies in population-scale genome projects](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04384-1). BMC BIOINFORMATICS.
