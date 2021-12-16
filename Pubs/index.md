@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-Equal contribution: *
-
 
 ## 2021
 [28] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [High throughput single-cell genome sequencing gives insights into the generation and evolution of mosaic aneuploidy in Leishmania donovani](https://doi.org/10.1093/nar/gkab1203). NUCLEIC ACIDS RESEARCH.
@@ -44,7 +42,7 @@ Equal contribution: *
 ## 2016
 [12] Cuypers B, Lecordier L, Meehan C, **Van den Broeck F**, Imamura H, Büscher P, Dujardin JC, Laukens K, Schnaufer A, Deward C, Lewise M, Balmer O, Azuragog T, Kjei-Faried S, Oheneh SA, Duahi B, Homiahi P, Mensah EK, Anleah F, Franco JR, Pays E & Deborggraeve S. [Novel Apolipoprotein L-I Variant Associated with Increased Susceptibility to Trypanosome Infection](https://doi.org/10.1128/mBio.02198-15). MBIO. 7 (2): e02198-15.
 
-[11] Imamura H*, Downing T*, **Van den Broeck F***, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC & Cotton JA. [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). ELIFE. 5: e12613.
+[11] Imamura H, Downing T, **Van den Broeck F**, Sanders MJ, Rijal S, Sundar S, Mannaert A, Vanaerschot M, Berg M, De Muylder G, Dumetz F, Cuypers B, Maes I, Domagalska M, Decuypere S, Rai K, Uranw S, Bhattarai NR, Khanal B, Prajapati VK, Sharma S, Stark O, Schönian G7, De Koning HP, Settimo L, Vanhollebeke B, Roy S, Ostyn B, Boelaert M, Maes L, Berriman M, Dujardin JC & Cotton JA. [Evolutionary genomics of epidemic visceral leishmaniasis in the Indian subcontinent](https://doi.org/10.7554/eLife.12613). ELIFE. 5: e12613.
 
 ## 2015
 [10]	**Van den Broeck F**, Maes G, Larmuseau M, Rollinson D, Sy I, Faye D, Volckaert F, Polman K & Huyse T. [Reconstructing colonization dynamics of the human parasite Schistosoma mansoni following anthropogenic environmental changes in Northwest Senegal](https://doi.org/10.1371/journal.pntd.0003998). PLOS NEGLECTED TROPICAL DISEASES. 9 (8): e0003998.
