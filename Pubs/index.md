@@ -2,8 +2,10 @@
 layout: default
 ---
 
+## 2022
+[28] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [High throughput single-cell genome sequencing gives insights into the generation and evolution of mosaic aneuploidy in Leishmania donovani](https://doi.org/10.1093/nar/gkab1203). NUCLEIC ACIDS RESEARCH. 50 (1): 293-305
+
 ## 2021
-[28] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [High throughput single-cell genome sequencing gives insights into the generation and evolution of mosaic aneuploidy in Leishmania donovani](https://doi.org/10.1093/nar/gkab1203). NUCLEIC ACIDS RESEARCH.
 
 [27] Achtman M, **Van den Broeck F**, Cooper K, Lemey P, Parker C, Zhou Z. [Genomic population structure associated with repeated escape of Salmonella enterica ATCC14028s from the laboratory into nature](https://pubmed.ncbi.nlm.nih.gov/34570761). PLOS GENETICS. 17(9):e1009820.
 
