@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## 2022
+[29] Boushaki D, Wallis K, **Van den Broeck F**, Schnaufer A. [Molecular Analysis of Trypanosome Infections in Algerian Camels](https://doi.org/10.1007/s11686-022-00577-7). ACTA PARASITOLOGICA. 
+
 [28] Negreira G, Monsieurs P, Imamura H, Maes I, Kuk N, Yagoubat A, **Van den Broeck F**, Sterkers Y, Dujardin JC, Domagalska A [High throughput single-cell genome sequencing gives insights into the generation and evolution of mosaic aneuploidy in Leishmania donovani](https://doi.org/10.1093/nar/gkab1203). NUCLEIC ACIDS RESEARCH. 50 (1): 293-305
 
 ## 2021
