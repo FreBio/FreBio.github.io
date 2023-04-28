@@ -8,7 +8,7 @@ layout: default
 [32] Hadermann A, Heeren S, Maes I, Dujardin JC, Domagalska M and **Van den Broeck F**. [Genome diversity of Leishmania aethiopica](https://doi.org/10.3389/fcimb.2023.1147998). FRONTIERS IN CELLULAR AND INFECTION MICROBIOLOGY. 13:1147998.
 
 ## 2022
-[31] Geerts M, Chen Z, Bebronne N, Savill NJ, Schnaufer A, Büscher P, Van Reet N, Van den Broeck F. [Deep kinetoplast genome analyses result in a novel molecular assay for detecting Trypanosoma brucei gambiense-specific minicircles](https://doi.org/10.1093/nargab/lqac081). NAR GENOMICS AND BIOINFORMATICS. 4: 1.
+[31] Geerts M, Chen Z, Bebronne N, Savill NJ, Schnaufer A, Büscher P, Van Reet N, **Van den Broeck F**. [Deep kinetoplast genome analyses result in a novel molecular assay for detecting Trypanosoma brucei gambiense-specific minicircles](https://doi.org/10.1093/nargab/lqac081). NAR GENOMICS AND BIOINFORMATICS. 4: 1.
 
 [30] Nguyen PT, Kant R, **Van den Broeck F**, et al. [The phylodynamics of SARS-CoV-2 during 2020 in Finland](https://www.nature.com/articles/s43856-022-00130-7). COMMUNICATIONS BIOLOGY. 2: 65.
 
