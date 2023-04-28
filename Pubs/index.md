@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## 2023
+[33] **Van den Broeck F**, Heeren S, Maes I, Sanders M, Cotton J, Cupolillo E, Alvarez E, Garcia L, Tasia M, Marneffe A, Dujardin JC, Van der Auwera G. [Genome Analysis of Triploid Hybrid Leishmania Parasite from the Neotropics](https://doi.org/10.3201/eid2905.221456). Emerging Infectious Diseases. 29: 1076-1077.
+
+[32] Hadermann A, Heeren S, Maes I, Dujardin JC, Domagalska M and **Van den Broeck F**. [Genome diversity of Leishmania aethiopica](https://doi.org/10.3389/fcimb.2023.1147998). Frontiers in Cellular and Infection Microbiology. 13:1147998.
+
 ## 2022
 [31] Geerts M, Chen Z, Bebronne N, Savill NJ, Schnaufer A, Büscher P, Van Reet N, Van den Broeck F. [Deep kinetoplast genome analyses result in a novel molecular assay for detecting Trypanosoma brucei gambiense-specific minicircles](https://doi.org/10.1093/nargab/lqac081). NAR GENOMICS AND BIOINFORMATICS. 4: 1.
 
