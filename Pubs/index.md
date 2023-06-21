@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## 2023
+[34] De Moraes L, Portilho M, Vrancken B, **Van den Broeck F** et al. [Analyses of Early ZIKV Genomes Are Consistent with Viral Spread from Northeast Brazil to the Americas](https://www.mdpi.com/1999-4915/15/6/1236). VIRUSES. 2023. 15: 1236.
+
 [33] **Van den Broeck F**, Heeren S, Maes I, Sanders M, Cotton J, Cupolillo E, Alvarez E, Garcia L, Tasia M, Marneffe A, Dujardin JC, Van der Auwera G. [Genome Analysis of Triploid Hybrid Leishmania Parasite from the Neotropics](https://doi.org/10.3201/eid2905.221456). EMERGING INFECTIUOS DISEASES. 29: 1076-1077.
 
 [32] Hadermann A, Heeren S, Maes I, Dujardin JC, Domagalska M and **Van den Broeck F**. [Genome diversity of Leishmania aethiopica](https://doi.org/10.3389/fcimb.2023.1147998). FRONTIERS IN CELLULAR AND INFECTION MICROBIOLOGY. 13:1147998.
