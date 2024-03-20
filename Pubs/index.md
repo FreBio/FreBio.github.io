@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 2024
-[38] 
+[38] Gómez-Palacio A, Cruz-Saavedra L, **Van den Broeck F**, Geerts M, Pita S, Vallejo G.A., Carranza J.C. & Ramírez J.D. [High‑throughput analysis of the Trypanosoma cruzi minicirculome (mcDNA) unveils structural variation and functional diversity](https://www.nature.com/articles/s41598-024-56076-4). SCIENTIFIC REPORTS. 14: 5578.
 
 ## 2023
 [37] Heeren S, Maes I, Sanders M, Lye L-F, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Lemey P, Beverley S.M., Cotton J.A., Dujardin J-C & **Van den Broeck F**. [Diversity and dissemination of viruses in pathogenic protozoa](https://www.nature.com/articles/s41467-023-44085-2). NATURE COMMUNICATIONS. 4: 8343.
