@@ -2,7 +2,12 @@
 layout: default
 ---
 
+## 2024
+[38] 
+
 ## 2023
+[37] Heeren S, Maes I, Sanders M, Lye L-F, Adaui V, Arevalo J, Llanos-Cuentas A, Garcia L, Lemey P, Beverley S.M., Cotton J.A., Dujardin J-C & **Van den Broeck F**. [Diversity and dissemination of viruses in pathogenic protozoa](https://www.nature.com/articles/s41467-023-44085-2). NATURE COMMUNICATIONS. 4: 8343.
+
 [36] Negreira GH, de Groote R, Van Giel D, Monsieurs P, Maes I, de Muylder G, **Van den Broeck F**, Dujardin JC, Domagalska M. [The adaptive roles of aneuploidy and polyclonality in Leishmania in response to environmental stress](https://doi.org/10.15252/embr.202357413). EMBO REPORTS. 24:e57413
 
 [35] Jara M, Arevalo J, Llanos-Cuentas A, **Van den Broeck F**, Domagalska M, Dujardin JC. [Unveiling drug-tolerant
